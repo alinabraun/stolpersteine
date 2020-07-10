@@ -1,36 +1,45 @@
 Codebuch 
 
+- ID's
+-> Edelweißpiraten = EWP
+-> 
+
+
 •	Edge-Attributes
 -	Gewicht: Häufigkeit der Unterstützung
--	einmalige Unterstützung: 1,
--	öftere Unterstützung: 2
--	ständige Unterstützung: 3
+->	einmalige Unterstützung: 1
+->	öftere Unterstützung: 2
+->	ständige Unterstützung: 3
 
 -	relation: Wie hat man unterstützt?
--	1: Aktive Aufforderung
--	2: Mithilfe bei Aktion
--	3: Geldunterstützung
+->	1: Aktive Aufforderung
+->	2: Mithilfe bei Aktion
+->	3: Geldunterstützung
 
 -	time: Wann fand die Unterstützung statt?
--	1: vor dem Weltkrieg
--	2: während des Weltkriegs
--	3: nach dem Weltkrieg
-
+->	1: vor dem Weltkrieg
+->  2: während des Weltkriegs
+->	3: nach dem Weltkrieg
 
 -	duration: Wie lang dauerte die Unterstützung?
--	1: unter einem Jahr
--	2: über ein Jahr
--	3: über drei Jahre
+->	1: unter einem Jahr
+->	2: über ein Jahr
+->	3: über drei Jahre
 
 •	Vertex-Attribute
 -	Name
+-> EWP
+->
+
 -	Geschlecht (bei Organisation keine Angabe)
+
 -	type (da es ein Two-mode Netzwerk ist):
-	1: Person
-	2: Widerstandsgruppe
+-> 1: Person
+-> 2: Widerstandsgruppe
+
 -	Alter:
-	1: unter 18
-	2: zwischen 18-21
-	3: 21-25
-	4: 25-30
+-> 1: unter 18
+-> 2: zwischen 18-21
+-> 3: 21-25
+-> 4: 25-30
 
