@@ -28,6 +28,10 @@ Codebuch
 ->	2: über ein Jahr
 ->	3: über drei Jahre
 
+- treason: Gab es einen Verrat einzelner Personen oder Gruppen?
+-> 0: nein
+-> 1: ja
+
 •	Vertex-Attribute
 -	Name
 -> Edelewißpiraten
@@ -47,3 +51,14 @@ Codebuch
 -> 3: 21-25
 -> 4: 25-30
 
+- size (nur bei Knoten mit type 2):
+-> 1: weniger als 50 Mitglieder
+-> 2: zwischen 50 und 100 Mitglieder
+-> 3: zwischen 100 und 500
+-> 4: mehr als 500
+
+- recrute (Wann wurden die Personen rekrutiert, Alter, nur bei Knoten mit type 1):
+-> 1: jünger als 16
+-> 2: zwischen 16 und 18
+-> 3: zwischen 18 und 21
+-> 4: über 21
