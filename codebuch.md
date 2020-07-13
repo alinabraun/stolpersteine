@@ -34,7 +34,7 @@ Codebuch
 
 •	Vertex-Attribute
 -	Name
--> Edelewißpiraten
+-> Edelweißpiraten
 -> Deutsche Jungenschaft Berlin
 -> Leipziger Meuten
 -> Kommunistischer Jugendverband
