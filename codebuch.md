@@ -50,12 +50,23 @@ Codebuch
 -> 2: zwischen 18-21
 -> 3: 21-25
 -> 4: 25-30
+-> 5: über 30
 
 - size (nur bei Knoten mit type 2):
 -> 1: weniger als 50 Mitglieder
 -> 2: zwischen 50 und 100 Mitglieder
 -> 3: zwischen 100 und 500
 -> 4: mehr als 500
+
+- function (Funktion der Mitglieder innerhalb einer Gruppe):
+-> 1= Anführer
+-> 2= Mitglied
+-> 3= Verräter
+
+- organisation: (Organisationsgrad der Gruppen)
+-> 1= schwache Organisation (Mitglieder kommen nur zu einer Aktion zusammen, kein regelmäßiger Kontakt)
+-> 2= mittlere Organisation (Treffen ab und zu mit festen Mitgliedern, aber z.B. kein fester Anführer, nicht stark strukturiert)
+-> 3= gut organisiert (regelmäßige Treffen mit fester Hierarchie)
 
 - recrute (Wann wurden die Personen rekrutiert, Alter, nur bei Knoten mit type 1):
 -> 1: jünger als 16
