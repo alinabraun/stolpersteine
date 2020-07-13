@@ -40,6 +40,8 @@ Codebuch
 -> Kommunistischer Jugendverband
 
 -	Geschlecht (bei Organisation keine Angabe)
+-> 1: männlich
+-> 2: weiblich
 
 -	type (da es ein Two-mode Netzwerk ist):
 -> 1: Person
