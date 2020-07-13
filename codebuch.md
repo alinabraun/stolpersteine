@@ -49,7 +49,7 @@ type (da es ein Two-mode Netzwerk ist):
 - 1: Person
 - 2: Widerstandsgruppe
 
-Alter:
+Alter (Wann Person rekrutiert wurde)
 - 1: unter 18
 - 2: zwischen 18-21
 - 3: 21-25
@@ -71,9 +71,3 @@ organisation: (Organisationsgrad der Gruppen)
 - 1= schwache Organisation (Mitglieder kommen nur zu einer Aktion zusammen, kein regelmäßiger Kontakt)
 - 2= mittlere Organisation (Treffen ab und zu mit festen Mitgliedern, aber z.B. kein fester Anführer, nicht stark strukturiert)
 - 3= gut organisiert (regelmäßige Treffen mit fester Hierarchie)
-
-recrute (Wann wurden die Personen rekrutiert, Alter, nur bei Knoten mit type 1):
-- 1: jünger als 16
-- 2: zwischen 16 und 18
-- 3: zwischen 18 und 21
-- 4: über 21
