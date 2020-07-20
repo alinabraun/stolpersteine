@@ -21,7 +21,7 @@ relation: Wie hat man unterstützt?
 
 time: Wann fand die Unterstützung statt?
 -	1: vor dem Weltkrieg
--  2: während des Weltkriegs
+- 2: während des Weltkriegs
 -	3: nach dem Weltkrieg
 
 duration: Wie lang dauerte die Unterstützung?
@@ -36,10 +36,7 @@ treason: Gab es einen Verrat einzelner Personen oder Gruppen?
 Vertex-Attribute
 
 Name
-- Edelweißpiraten
-- Deutsche Jungenschaft Berlin
 - Leipziger Meuten
-- Kommunistischer Jugendverband
 
 Geschlecht (bei Organisation keine Angabe)
 - 1: männlich
@@ -50,11 +47,10 @@ type (da es ein Two-mode Netzwerk ist):
 - 2: Widerstandsgruppe
 
 Alter (Wann Person rekrutiert wurde)
-- 1: unter 18
-- 2: zwischen 18-21
-- 3: 21-25
-- 4: 25-30
-- 5: über 30
+- 1: unter 14
+- 2: 14 bis 16
+- 3: 17 bis 18
+- 4: über 18
 
 size (nur bei Knoten mit type 2):
 - 1: weniger als 50 Mitglieder
