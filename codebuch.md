@@ -1,5 +1,27 @@
 FRAGE: Zusammenhänge zwischen Familien oder zwischen den Straßen darstellen?
 
+Sandhu Feedback: 
+-> Familie aussuchen und Wohnort und dann anhand dessen wo sind die hergekommen, was haben sie gemacht und wo sind sie hingekommen?
+-> Für Jede Familie ein NW erstellen
+-> Familiennetzwerke, exemplarisch zeigen wie das Regime vorgegangen ist
+-> geographisches NW 
+-> 1. Grad an Verwandtschaft (Eltern, Geschwister)
+-> Beruf, Wohnort, enteignet, wo sind sie hindeportiert worden, Eheleute getrennt?
+-> NW einer Deportation
+
+https://github.com/hdm-crpr/226305/tree/master/data/wohlleben
+
+- für Pretest: Eine Familie aussuchen 
+
+NW am Ende:
+- Jeder eine Familie 
+- 5 Familien aus Stuttgart
+- NW aufteilen nach verschiedenen Zeitepisoden
+- Für jede Famile eigenes R und Edge und Nodelist 
+
+Vertex: Name, Alter, Religion, Geschelcht, Wohnort, Nationalität, Beruf, höchster Bildungsgrad, Todesort, Geburtsort, 
+
+
 Codebuch 
 
 Fragestellung: Deportationen im Raum Stuttgart aanhand von Stolpersteinen (Wer wurde aus welcher Straße (von wo) wann wohin gebracht?)
@@ -15,12 +37,30 @@ time (Wann wurden die Personen deportiert?)
 - 5: 1944
 - 6: 1945
 
+relation
+- 1: Familie
+- 2: Arbeit
+- 3: Wohnort
+- 4: Verfolgung
+- 5: Freundschaft
+
+time (Beginn der Beziehung)
+- 
+
+duration (Dauer einer Beziehung)
+- 1: 0-1 Jahr
+- 2: 1-3 Jahre
+- 3: 3-5 Jahre
+- 4: 5-7 Jahre
+- 5: 7-10 Jahre
+- 6: über 10 Jahre
+
 
 Vertex-Attribute
 
 type (da es ein Two-mode Netzwerk ist):
 - 1: Person
-- 2: KZ
+- 2: Ort
 
 sex
 - 1: männlich
@@ -35,27 +75,13 @@ Alter (Wann Person deportiert wurde)
 - 6: 50 bis 60
 - 7: 60 bis 70
 
-size (Haushaltsgröße)
-- 1: Ein-Personen-Haushalt
-- 2: Zwei-Personen-Haushalt
-- 3: Drei-Personen-Haushalt
-- 4: Vier-Personen-Haushalt
-- 5: Fünf-Personen-Haushalt
-- 6: Sechs-Personen-Haushalt
-- 7: Sieben-Personen-Haushalt
-- 8: Acht-Personen-Haushalt
-
-death (Im KZ gestorben)
-- 1: Ja
-- 2: Nein
-
-Group (Zugehörigkeit zu Gruppe, die von nazis deportiert wurde)
-- 1: Jude
-- 2: Homosexuell
-- 3: Behindert
-- 4: Widerstandskämpfer
-- 5: politischer Gegner
-- 6: Sinti Roma
+religion 
+- 1: Judentum
+- 2: Christentum (evangelisch)
+- 3: Christentum (katholisch)
+- 4: keine Religion
+- 5: Islam
+- 6: 
 
 region
 - 1: Stuttgart Mitte
@@ -83,17 +109,10 @@ region
 - 23: Stuttgart Wangen
 - 24: Stuttgart Kaltental
 
-household (Zugehörigkeit):
-- 1: Familie
-- 2: Freundschaft
-
-household name
--> Ersten drei Buchstaben einer Familie, wenn es sich doppelt mit I,II usw arbeiten
-
 organisation
-- 1: Arbeitslager
-- 2: Vernichtungslager
-- 3: Frauenlager
-- 4: Durchgangslager
-- 5: Tötungsanstalt
-- 6: Erziehungslager
+- 1: Arbeitsplatz
+- 2: KZ
+- 3: Straße
+- 4: 
+- 5: 
+- 6: 
