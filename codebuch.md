@@ -31,7 +31,7 @@ treason: Gab es einen Verrat einzelner Personen oder Gruppen?
 Vertex-Attribute
 
 type (da es ein Two-mode Netzwerk ist):
-- 1: Haushalt
+- 1: Person
 - 2: KZ
 
 sex
@@ -67,6 +67,7 @@ Group (Zugehörigkeit zu Gruppe, die von nazis deportiert wurde)
 - 3: Behindert
 - 4: Widerstandskämpfer
 - 5: politischer Gegner
+- 6: Sinti Roma
 
 region
 - 1: Stuttgart Mitte
@@ -92,14 +93,19 @@ region
 - 21: Stuttgart Neuwirtshaus 
 - 22: Stuttgart Untertürkheim
 - 23: Stuttgart Wangen
+- 24: Stuttgart Kaltental
 
+household (Zugehörigkeit):
+- 1: Familie
+- 2: Freundschaft
 
-function (Funktion der Mitglieder innerhalb einer Gruppe):
-- 1= Anführer
-- 2= Mitglied
-- 3= Verräter
+household name
+-> Ersten drei Buchstaben einer Familie, wenn es sich doppelt mit I,II usw arbeiten
 
-organisation: (Organisationsgrad der Gruppen)
-- 1= schwache Organisation (Mitglieder kommen nur zu einer Aktion zusammen, kein regelmäßiger Kontakt)
-- 2= mittlere Organisation (Treffen ab und zu mit festen Mitgliedern, aber z.B. kein fester Anführer, nicht stark strukturiert)
-- 3= gut organisiert (regelmäßige Treffen mit fester Hierarchie)
+organisation
+- 1: Arbeitslager
+- 2: Vernichtungslager
+- 3: Frauenlager
+- 4: Durchgangslager
+- 5: Zuchthaus
+- 6: Erziehungslager
