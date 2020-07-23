@@ -68,6 +68,32 @@ Group (Zugehörigkeit zu Gruppe, die von nazis deportiert wurde)
 - 4: Widerstandskämpfer
 - 5: politischer Gegner
 
+region
+- 1: Stuttgart Mitte
+- 2: Stuttgart Ost
+- 3: Stuttgart West
+- 4: Stuttgart Süd
+- 5: Stuttgart Nord
+- 6: Stuttgart Feuerbach
+- 7: Stuttgart Vaihingen
+- 8: Stuttgart Zuffenhausen
+- 9: Stuttgart Stammheim
+- 10: Stuttgart Bad Canstatt
+- 11: Stuttgart Münster
+- 12: Stuttgart Obertürkheim
+- 13: Stuttgart Hedelfingen
+- 14: Stuttgart Botnang
+- 15: Stuttgart Degerloch
+- 16: Stuttgart Sillenbuch
+- 17: Stuttgart Möhringen
+- 18: Stuttgart Mühlhausen
+- 19: Stuttgart Plieningen
+- 20: Stuttgart Weilimdorf
+- 21: Stuttgart Neuwirtshaus 
+- 22: Stuttgart Untertürkheim
+- 23: Stuttgart Wangen
+
+
 function (Funktion der Mitglieder innerhalb einer Gruppe):
 - 1= Anführer
 - 2= Mitglied
