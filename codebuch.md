@@ -30,13 +30,13 @@ treason: Gab es einen Verrat einzelner Personen oder Gruppen?
 
 Vertex-Attribute
 
-Geschlecht (bei Organisation keine Angabe)
-- 1: männlich
-- 2: weiblich
-
 type (da es ein Two-mode Netzwerk ist):
 - 1: Haushalt
 - 2: KZ
+
+sex
+- 1: männlich
+- 2: weiblich
 
 Alter (Wann Person deportiert wurde)
 - 1: 0 bis 10
@@ -56,6 +56,17 @@ size (Haushaltsgröße)
 - 6: Sechs-Personen-Haushalt
 - 7: Sieben-Personen-Haushalt
 - 8: Acht-Personen-Haushalt
+
+death (Im KZ gestorben)
+- 1: Ja
+- 2: Nein
+
+Group (Zugehörigkeit zu Gruppe, die von nazis deportiert wurde)
+- 1: Jude
+- 2: Homosexuell
+- 3: Behindert
+- 4: Widerstandskämpfer
+- 5: politischer Gegner
 
 function (Funktion der Mitglieder innerhalb einer Gruppe):
 - 1= Anführer
