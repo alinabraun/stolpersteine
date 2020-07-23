@@ -3,30 +3,18 @@ Codebuch
 Fragestellung: Deportationen im Raum Stuttgart aanhand von Stolpersteinen (Wer wurde aus welcher Straße (von wo) wann wohin gebracht?)
 
 Edge-Attributes
+= steht für Deportation, gerichtet
 
-Gewicht: Häufigkeit der Unterstützung
--	einmalige Unterstützung: 1
--	öftere Unterstützung: 2
--	ständige Unterstützung: 3
+time (Wann wurden die Personen deportiert?)
+- 1: 1940
+- 2: 1941
+- 3: 1942
+- 4: 1943
+- 5: 1944
+- 6: 1945
 
-relation: Wie hat man unterstützt?
--	1: Aktive Aufforderung
--	2: Mithilfe bei Aktion
--	3: Geldunterstützung
 
-time: Wann fand die Unterstützung statt?
--	1: vor dem Weltkrieg
-- 2: während des Weltkriegs
--	3: nach dem Weltkrieg
 
-duration: Wie lang dauerte die Unterstützung?
--	1: unter einem Jahr
--	2: über ein Jahr
--	3: über drei Jahre
-
-treason: Gab es einen Verrat einzelner Personen oder Gruppen?
-- 0: nein
-- 1: ja
 
 Vertex-Attribute
 
@@ -107,5 +95,5 @@ organisation
 - 2: Vernichtungslager
 - 3: Frauenlager
 - 4: Durchgangslager
-- 5: Zuchthaus
+- 5: Tötungsanstalt
 - 6: Erziehungslager
