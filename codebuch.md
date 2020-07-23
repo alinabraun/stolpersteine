@@ -1,9 +1,11 @@
+FRAGE: Zusammenhänge zwischen Familien oder zwischen den Straßen darstellen?
+
 Codebuch 
 
 Fragestellung: Deportationen im Raum Stuttgart aanhand von Stolpersteinen (Wer wurde aus welcher Straße (von wo) wann wohin gebracht?)
 
 Edge-Attributes
-= steht für Deportation, gerichtet
+= steht für Deportation, ist gerichtet
 
 time (Wann wurden die Personen deportiert?)
 - 1: 1940
@@ -12,8 +14,6 @@ time (Wann wurden die Personen deportiert?)
 - 4: 1943
 - 5: 1944
 - 6: 1945
-
-
 
 
 Vertex-Attribute
