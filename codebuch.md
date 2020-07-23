@@ -1,11 +1,6 @@
 Codebuch 
 
-ID's
-- Edelweißpiraten = EWP
-- Deutsche Jungenschaft Berlin = DJ
-- Leipziger Meuten = LM
-- Kommunistischer Jugendverband = KJ
-
+Fragestellung: Deportationen im Raum Stuttgart aanhand von Stolpersteinen (Wer wurde aus welcher Straße (von wo) wann wohin gebracht?)
 
 Edge-Attributes
 
@@ -35,28 +30,32 @@ treason: Gab es einen Verrat einzelner Personen oder Gruppen?
 
 Vertex-Attribute
 
-Name
-- Leipziger Meuten
-
 Geschlecht (bei Organisation keine Angabe)
 - 1: männlich
 - 2: weiblich
 
 type (da es ein Two-mode Netzwerk ist):
-- 1: Person
-- 2: Widerstandsgruppe
+- 1: Haushalt
+- 2: KZ
 
-Alter (Wann Person rekrutiert wurde)
-- 1: unter 14
-- 2: 14 bis 16
-- 3: 17 bis 18
-- 4: über 18
+Alter (Wann Person deportiert wurde)
+- 1: 0 bis 10
+- 2: 10 bis 20 
+- 3: 20 bis 30
+- 4: 30 bis 40
+- 5: 40 bis 50
+- 6: 50 bis 60
+- 7: 60 bis 70
 
-size (nur bei Knoten mit type 2):
-- 1: weniger als 50 Mitglieder
-- 2: zwischen 50 und 100 Mitglieder
-- 3: zwischen 100 und 500
-- 4: mehr als 500
+size (Haushaltsgröße)
+- 1: Ein-Personen-Haushalt
+- 2: Zwei-Personen-Haushalt
+- 3: Drei-Personen-Haushalt
+- 4: Vier-Personen-Haushalt
+- 5: Fünf-Personen-Haushalt
+- 6: Sechs-Personen-Haushalt
+- 7: Sieben-Personen-Haushalt
+- 8: Acht-Personen-Haushalt
 
 function (Funktion der Mitglieder innerhalb einer Gruppe):
 - 1= Anführer
