@@ -45,10 +45,10 @@ relation
 
 duration (Dauer einer Beziehung)
 - 1: 0-1 Jahr
-- 2: 1-5 Jahre
-- 3: 5-10 Jahre
-- 4: 10-15 Jahre
-- 5: 15-20 Jahre
+- 2: 2-5 Jahre
+- 3: 6-10 Jahre
+- 4: 11-15 Jahre
+- 5: 16-20 Jahre
 - 6: über 20 Jahre
 
 
