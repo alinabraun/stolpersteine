@@ -62,7 +62,7 @@ sex
 - 1: männlich
 - 2: weiblich
 
-function (in der Familie)
+family function (in der Familie)
 - 1: Vater
 - 2: Mutter
 - 3: Sohn
@@ -72,6 +72,9 @@ function (in der Familie)
 - 7: Onkel
 - 8: Tante
 - 9: Cousin/Cousine
+- 10: Kind aus anderer Ehe
+- 11: Ehepartner aus anderer Ehe
+- 12: 
 
 Alter 
 - 1: 0 bis 10
@@ -110,7 +113,7 @@ education (Höchster Bildungsabschluss)
 - 2: Abitur
 - 3: Realschule
 - 4: Hauptschule
-- 5: Ausbildung
+- 5: Ausbildung/Lehre
 - 6: Keine Ausbildung
 
 Origin (Geburtsort)
@@ -121,7 +124,7 @@ Origin (Geburtsort)
 
 death (Todesort)
 - 1: lebt noch
-- 2: 
+- 2: Tarnow
 - 3:
 - 4: 
 
