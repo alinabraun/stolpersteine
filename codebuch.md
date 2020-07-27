@@ -118,15 +118,18 @@ education (Höchster Bildungsabschluss)
 
 Origin (Geburtsort)
 - 1: Polen
-- 2: 
+- 2: Stuttgart
 - 3:
 - 4: 
 
 death (Todesort)
 - 1: lebt noch
 - 2: Tarnow
-- 3:
-- 4: 
+- 3: Auschwitz
+- 4: 1. WK
+- 5:
+- 6:
+- 7:
 
 profession (Beruf)
 - 1: Kaufmann/Kauffrau
