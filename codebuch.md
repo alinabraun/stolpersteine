@@ -25,7 +25,7 @@ Fragestellung: Deportationen im Raum Stuttgart aanhand von Stolpersteinen (Wer w
 Edge-Attributes
 = steht für Deportation, ist gerichtet
 
-time (Beginn der Beziehung)
+time
 - 1: 1940
 - 2: 1941
 - 3: 1942
@@ -40,6 +40,8 @@ relation
 - 4: Verfolgung
 - 5: Freundschaft
 - 6: Liebensbeziehung
+- 7: Wittwe/r 
+- 8: Geschieden
 
 duration (Dauer einer Beziehung)
 - 1: 0-1 Jahr
@@ -71,7 +73,7 @@ function (in der Familie)
 - 8: Tante
 - 9: Cousin/Cousine
 
-Alter (Wann Person deportiert wurde)
+Alter 
 - 1: 0 bis 10
 - 2: 10 bis 20 
 - 3: 20 bis 30
@@ -112,19 +114,19 @@ education (Höchster Bildungsabschluss)
 - 6: Keine Ausbildung
 
 Origin (Geburtsort)
-- 1: 
+- 1: Polen
 - 2: 
 - 3:
 - 4: 
 
 death (Todesort)
-- 1: 
+- 1: lebt noch
 - 2: 
 - 3:
 - 4: 
 
 profession (Beruf)
-- 1: 
-- 2:
+- 1: Kaufmann/Kauffrau
+- 2: 
 - 3:
 - 4:
