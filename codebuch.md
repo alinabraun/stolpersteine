@@ -95,8 +95,8 @@ religion
 organisation
 - 1: Arbeitsplatz
 - 2: KZ
-- 3: Straße
-- 4: Wohnort
+- 3: Wohnort
+- 4: 
 - 5: 
 - 6: 
 
