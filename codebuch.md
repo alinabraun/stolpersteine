@@ -39,6 +39,7 @@ relation
 - 3: Wohnort
 - 4: Verfolgung
 - 5: Freundschaft
+- 6: Liebensbeziehung
 
 duration (Dauer einer Beziehung)
 - 1: 0-1 Jahr
@@ -58,6 +59,17 @@ type (da es ein Two-mode Netzwerk ist):
 sex
 - 1: männlich
 - 2: weiblich
+
+function (in der Familie)
+- 1: Vater
+- 2: Mutter
+- 3: Sohn
+- 4: Tochter
+- 5: Oma
+- 6: Opa
+- 7: Onkel
+- 8: Tante
+- 9: Cousin/Cousine
 
 Alter (Wann Person deportiert wurde)
 - 1: 0 bis 10
@@ -110,3 +122,9 @@ death (Todesort)
 - 2: 
 - 3:
 - 4: 
+
+profession (Beruf)
+- 1: 
+- 2:
+- 3:
+- 4:
