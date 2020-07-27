@@ -45,11 +45,11 @@ relation
 
 duration (Dauer einer Beziehung)
 - 1: 0-1 Jahr
-- 2: 1-3 Jahre
-- 3: 3-5 Jahre
-- 4: 5-7 Jahre
-- 5: 7-10 Jahre
-- 6: über 10 Jahre
+- 2: 1-5 Jahre
+- 3: 5-10 Jahre
+- 4: 10-15 Jahre
+- 5: 15-20 Jahre
+- 6: über 20 Jahre
 
 
 Vertex-Attribute
