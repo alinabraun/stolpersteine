@@ -74,7 +74,7 @@ family function (in der Familie)
 - 9: Cousin/Cousine
 - 10: Kind aus anderer Ehe
 - 11: Ehepartner aus anderer Ehe
-- 12: 
+- 12: Angeheiratet
 
 Alter 
 - 1: 0 bis 10
@@ -96,7 +96,7 @@ organisation
 - 1: Arbeitsplatz
 - 2: KZ
 - 3: Straße
-- 4: 
+- 4: Wohnort
 - 5: 
 - 6: 
 
