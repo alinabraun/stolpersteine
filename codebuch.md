@@ -9,6 +9,9 @@ Sandhu Feedback:
 
 https://github.com/hdm-crpr/226305/tree/master/data/wohlleben
 
+https://www.wikiwand.com/de/Liste_der_Stolpersteine_in_Stuttgart
+
+
 - für Pretest: Eine Familie aussuchen 
 
 NW am Ende:
