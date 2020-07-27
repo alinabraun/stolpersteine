@@ -1,5 +1,3 @@
-FRAGE: Zusammenhänge zwischen Familien oder zwischen den Straßen darstellen?
-
 Sandhu Feedback: 
 -> Familie aussuchen und Wohnort und dann anhand dessen wo sind die hergekommen, was haben sie gemacht und wo sind sie hingekommen?
 -> Für Jede Familie ein NW erstellen
@@ -19,8 +17,6 @@ NW am Ende:
 - NW aufteilen nach verschiedenen Zeitepisoden
 - Für jede Famile eigenes R und Edge und Nodelist 
 
-Vertex: Name, Alter, Religion, Geschelcht, Wohnort, Nationalität, Beruf, höchster Bildungsgrad, Todesort, Geburtsort, 
-
 
 Codebuch 
 
@@ -29,7 +25,7 @@ Fragestellung: Deportationen im Raum Stuttgart aanhand von Stolpersteinen (Wer w
 Edge-Attributes
 = steht für Deportation, ist gerichtet
 
-time (Wann wurden die Personen deportiert?)
+time (Beginn der Beziehung)
 - 1: 1940
 - 2: 1941
 - 3: 1942
@@ -43,9 +39,6 @@ relation
 - 3: Wohnort
 - 4: Verfolgung
 - 5: Freundschaft
-
-time (Beginn der Beziehung)
-- 
 
 duration (Dauer einer Beziehung)
 - 1: 0-1 Jahr
@@ -81,33 +74,6 @@ religion
 - 3: Christentum (katholisch)
 - 4: keine Religion
 - 5: Islam
-- 6: 
-
-region
-- 1: Stuttgart Mitte
-- 2: Stuttgart Ost
-- 3: Stuttgart West
-- 4: Stuttgart Süd
-- 5: Stuttgart Nord
-- 6: Stuttgart Feuerbach
-- 7: Stuttgart Vaihingen
-- 8: Stuttgart Zuffenhausen
-- 9: Stuttgart Stammheim
-- 10: Stuttgart Bad Canstatt
-- 11: Stuttgart Münster
-- 12: Stuttgart Obertürkheim
-- 13: Stuttgart Hedelfingen
-- 14: Stuttgart Botnang
-- 15: Stuttgart Degerloch
-- 16: Stuttgart Sillenbuch
-- 17: Stuttgart Möhringen
-- 18: Stuttgart Mühlhausen
-- 19: Stuttgart Plieningen
-- 20: Stuttgart Weilimdorf
-- 21: Stuttgart Neuwirtshaus 
-- 22: Stuttgart Untertürkheim
-- 23: Stuttgart Wangen
-- 24: Stuttgart Kaltental
 
 organisation
 - 1: Arbeitsplatz
@@ -116,3 +82,31 @@ organisation
 - 4: 
 - 5: 
 - 6: 
+
+nationality 
+- 1: Deutschland
+- 2: Ost-Europa (Polen, Tschechien, Slovenien, Ungarn, Bulgarien etc.)
+- 3: Süd-Europa (Spanien, Italien, Frankreich etc.)
+- 4: Russland
+- 5: Großbritanien
+- 6: Türkei
+
+education (Höchster Bildungsabschluss)
+- 1: Studium
+- 2: Abitur
+- 3: Realschule
+- 4: Hauptschule
+- 5: Ausbildung
+- 6: Keine Ausbildung
+
+Origin (Geburtsort)
+- 1: 
+- 2: 
+- 3:
+- 4: 
+
+death (Todesort)
+- 1: 
+- 2: 
+- 3:
+- 4: 
