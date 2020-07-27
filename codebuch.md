@@ -53,6 +53,7 @@ duration (Dauer einer Beziehung)
 - 4: 11-15 Jahre
 - 5: 16-20 Jahre
 - 6: über 20 Jahre
+- 7: von Geburt bis Tod
 
 
 Vertex-Attribute
