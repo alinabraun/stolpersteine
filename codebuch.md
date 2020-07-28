@@ -38,8 +38,9 @@ relation
 - 7: Wittwe/r 
 - 8: Geschieden
 
-time
+time (beschreibt Startzeitpunkt der Beziehung)
 - Jahreszahl wird direkt in Edgelist geschrieben
+
 
 duration (Dauer einer Beziehung)
 - 1: 0-1 Jahr
