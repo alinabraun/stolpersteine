@@ -28,14 +28,6 @@ Fragestellung: Deportationen im Raum Stuttgart aanhand von Stolpersteinen (Wer w
 Edge-Attributes
 = steht für Deportation, ist gerichtet
 
-time
-- 1: 1940
-- 2: 1941
-- 3: 1942
-- 4: 1943
-- 5: 1944
-- 6: 1945
-
 relation
 - 1: Familie
 - 2: Arbeit
