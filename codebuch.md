@@ -136,3 +136,9 @@ profession (Beruf)
 - 2: 
 - 3:
 - 4:
+
+year birth 
+-> In Nodelist wird Jahreszahl individuell eingetragen
+
+year death
+-> In Nodelist wird Jahreszahl individuell eingetragen
