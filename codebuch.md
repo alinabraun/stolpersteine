@@ -134,7 +134,7 @@ death (Todesort)
 - 2: Tarnow
 - 3: Auschwitz
 - 4: 1. WK
-- 5:
+- 5: Treblinka
 - 6:
 - 7:
 
