@@ -76,6 +76,9 @@ family function (in der Familie)
 - 11: Ehepartner aus anderer Ehe
 - 12: Angeheiratet
 - 13: Enkel
+- 14: Schwester
+- 15: Bruder
+- 16: Schwager /Schwägerin
 
 Alter 
 - 1: 0 bis 10
