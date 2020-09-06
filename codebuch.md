@@ -136,7 +136,7 @@ death (Todesort)
 - 3: Auschwitz
 - 4: 1. WK
 - 5: Treblinka
-- 6:
+- 6: Stuttgart
 - 7:
 
 profession (Beruf)
