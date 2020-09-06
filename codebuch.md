@@ -101,8 +101,8 @@ organisation
 - 2: KZ
 - 3: Wohnort
 - 4: Widerstand
-- 5: 
-- 6: 
+- 5: Gefängnis
+- 6: Gericht
 
 nationality 
 - 1: Deutschland
