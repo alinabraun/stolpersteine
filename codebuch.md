@@ -128,6 +128,7 @@ Origin (Geburtsort)
 - 5: Linz am Rhein
 - 6: Lübeck
 - 7: Sydney
+- 8: Crailsheim
 
 death (Todesort)
 - 1: lebt noch
