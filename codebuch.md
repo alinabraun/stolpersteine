@@ -135,7 +135,7 @@ death (Todesort)
 profession (Beruf)
 - 1: Kaufmann/Kauffrau
 - 2: Tabakschneider
-- 3:
+- 3: Viehländer
 - 4:
 
 year birth 
