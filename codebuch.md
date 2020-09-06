@@ -135,8 +135,9 @@ death (Todesort)
 profession (Beruf)
 - 1: Kaufmann/Kauffrau
 - 2: Tabakschneider
-- 3: Viehländer
-- 4:
+- 3: ViehhänderIn
+- 4: SchneiderIn
+- 5: 
 
 year birth 
 -> In Nodelist wird Jahreszahl individuell eingetragen
