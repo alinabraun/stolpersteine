@@ -127,6 +127,7 @@ Origin (Geburtsort)
 - 4: Russland
 - 5: Linz am Rhein
 - 6: Lübeck
+- 7: Sydney
 
 death (Todesort)
 - 1: lebt noch
