@@ -140,7 +140,7 @@ profession (Beruf)
 - 2: Tabakschneider
 - 3: ViehhänderIn
 - 4: SchneiderIn
-- 5: 
+- 5: VerkäuferIn
 
 year birth 
 -> In Nodelist wird Jahreszahl individuell eingetragen
