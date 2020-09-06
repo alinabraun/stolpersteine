@@ -100,7 +100,7 @@ organisation
 - 1: Arbeitsplatz
 - 2: KZ
 - 3: Wohnort
-- 4: 
+- 4: Widerstand
 - 5: 
 - 6: 
 
