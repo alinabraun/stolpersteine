@@ -142,6 +142,7 @@ profession (Beruf)
 - 4: SchneiderIn
 - 5: VerkäuferIn
 - 6: Händler, Buchhalter
+- 7: Prüfer
 
 year birth 
 -> In Nodelist wird Jahreszahl individuell eingetragen
