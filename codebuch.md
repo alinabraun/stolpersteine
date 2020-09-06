@@ -137,7 +137,7 @@ death (Todesort)
 - 4: 1. WK
 - 5: Treblinka
 - 6: Stuttgart
-- 7:
+- 7: Bikernieki
 
 profession (Beruf)
 - 1: Kaufmann/Kauffrau
