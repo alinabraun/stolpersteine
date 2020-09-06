@@ -138,7 +138,7 @@ death (Todesort)
 profession (Beruf)
 - 1: Kaufmann/Kauffrau
 - 2: Tabakschneider
-- 3: ViehhänderIn
+- 3: Amtsangestellte/r
 - 4: SchneiderIn
 - 5: VerkäuferIn
 - 6: Händler, Buchhalter
