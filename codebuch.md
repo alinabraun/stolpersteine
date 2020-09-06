@@ -134,7 +134,7 @@ death (Todesort)
 
 profession (Beruf)
 - 1: Kaufmann/Kauffrau
-- 2: 
+- 2: Tabakschneider
 - 3:
 - 4:
 
