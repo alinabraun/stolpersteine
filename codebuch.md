@@ -124,7 +124,8 @@ Origin (Geburtsort)
 - 1: Polen
 - 2: Stuttgart
 - 3: Michelbach
-- 4: 
+- 4: Russland
+- 5: 
 
 death (Todesort)
 - 1: lebt noch
