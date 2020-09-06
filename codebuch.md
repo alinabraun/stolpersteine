@@ -75,6 +75,7 @@ family function (in der Familie)
 - 10: Kind aus anderer Ehe
 - 11: Ehepartner aus anderer Ehe
 - 12: Angeheiratet
+- 13: Enkel
 
 Alter 
 - 1: 0 bis 10
