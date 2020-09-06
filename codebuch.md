@@ -125,7 +125,8 @@ Origin (Geburtsort)
 - 2: Stuttgart
 - 3: Michelbach
 - 4: Russland
-- 5: 
+- 5: Linz am Rhein
+- 6: Lübeck
 
 death (Todesort)
 - 1: lebt noch
