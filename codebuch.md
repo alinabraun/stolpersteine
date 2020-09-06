@@ -120,7 +120,7 @@ education (Höchster Bildungsabschluss)
 Origin (Geburtsort)
 - 1: Polen
 - 2: Stuttgart
-- 3:
+- 3: Michelbach
 - 4: 
 
 death (Todesort)
