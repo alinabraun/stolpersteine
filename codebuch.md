@@ -138,6 +138,7 @@ death (Todesort)
 - 5: Treblinka
 - 6: Stuttgart
 - 7: Bikernieki
+- 8: Ausschwitz
 
 profession (Beruf)
 - 1: Kaufmann/Kauffrau
