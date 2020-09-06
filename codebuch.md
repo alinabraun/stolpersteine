@@ -111,6 +111,7 @@ nationality
 - 4: Russland
 - 5: Großbritanien
 - 6: Türkei
+- 7: Australien
 
 education (Höchster Bildungsabschluss)
 - 1: Studium
