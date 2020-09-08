@@ -38,6 +38,7 @@ relation
 - 7: Wittwe/r 
 - 8: Geschieden
 - 9: Auswanderung 
+- 10: Flucht
 
 time (beschreibt Startzeitpunkt der Beziehung)
 - Jahreszahl wird direkt in Edgelist geschrieben
