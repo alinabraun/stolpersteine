@@ -103,6 +103,7 @@ organisation
 - 4: Widerstand
 - 5: Gefängnis
 - 6: Gericht
+- 7: Internierungslager
 
 nationality 
 - 1: Deutschland
