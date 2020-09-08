@@ -34,7 +34,7 @@ relation
 - 3: Wohnort
 - 4: Verfolgung
 - 5: Freundschaft
-- 6: Liebensbeziehung
+- 6: Liebensbeziehung, Ehe
 - 7: Wittwe/r 
 - 8: Geschieden
 
