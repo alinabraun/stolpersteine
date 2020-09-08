@@ -39,6 +39,7 @@ relation
 - 8: Geschieden
 - 9: Auswanderung 
 - 10: Flucht
+- 11: Unterstützung
 
 time (beschreibt Startzeitpunkt der Beziehung)
 - Jahreszahl wird direkt in Edgelist geschrieben
