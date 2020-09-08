@@ -104,6 +104,7 @@ organisation
 - 5: Gefängnis
 - 6: Gericht
 - 7: Internierungslager
+- 8: "Judenhaus", Wohnhäuser aus (ehemals) jüdischem Eigentum
 
 nationality 
 - 1: Deutschland
