@@ -148,6 +148,7 @@ death (Todesort)
 - 6: Stuttgart
 - 7: Bikernieki
 - 8: Ausschwitz
+- 9: Riga
 
 profession (Beruf)
 - 1: Kaufmann/Kauffrau
