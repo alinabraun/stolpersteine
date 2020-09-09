@@ -149,6 +149,7 @@ death (Todesort)
 - 7: Bikernieki
 - 8: Ausschwitz
 - 9: Riga
+- 10: San Francisco
 
 profession (Beruf)
 - 1: Kaufmann/Kauffrau
@@ -158,9 +159,10 @@ profession (Beruf)
 - 5: VerkäuferIn
 - 6: Händler, Buchhalter
 - 7: Prüfer
+- 8: Prokurist
 
 year birth 
--> In Nodelist wird Jahreszahl individuell eingetragen
+- In Nodelist wird Jahreszahl individuell eingetragen
 
 year death
--> In Nodelist wird Jahreszahl individuell eingetragen
+- In Nodelist wird Jahreszahl individuell eingetragen
