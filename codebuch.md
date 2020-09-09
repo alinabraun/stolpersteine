@@ -135,6 +135,8 @@ Origin (Geburtsort)
 - 6: Lübeck
 - 7: Sydney
 - 8: Crailsheim
+- 9: Frankfurt
+- 10: Haigerloch
 
 death (Todesort)
 - 1: lebt noch
