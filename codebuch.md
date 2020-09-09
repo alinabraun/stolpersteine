@@ -137,6 +137,7 @@ Origin (Geburtsort)
 - 8: Crailsheim
 - 9: Frankfurt
 - 10: Haigerloch
+- 11: Oberndorf am Neckar
 
 death (Todesort)
 - 1: lebt noch
