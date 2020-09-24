@@ -150,6 +150,7 @@ death (Todesort)
 - 8: Ausschwitz
 - 9: Riga
 - 10: San Francisco
+- 11: Izbica
 
 profession (Beruf)
 - 1: Kaufmann/Kauffrau
