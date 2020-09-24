@@ -23,7 +23,7 @@ NW am Ende:
 
 Codebuch 
 
-Fragestellung: Deportationen im Raum Stuttgart aanhand von Stolpersteinen (Wer wurde aus welcher Straße (von wo) wann wohin gebracht?)
+Fragestellung: Deportationen im Raum Stuttgart anhand von Stolpersteinen (Wer wurde aus welcher Straße (von wo) wann wohin gebracht?)
 
 Edge-Attributes
 = steht für Deportation, ist gerichtet
@@ -40,6 +40,7 @@ relation
 - 9: Auswanderung 
 - 10: Flucht
 - 11: Unterstützung
+- 12: Geburt/kurzer Aufenthalt
 
 time (beschreibt Startzeitpunkt der Beziehung)
 - Jahreszahl wird direkt in Edgelist geschrieben
