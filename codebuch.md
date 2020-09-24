@@ -139,6 +139,10 @@ Origin (Geburtsort)
 - 9: Frankfurt
 - 10: Haigerloch
 - 11: Oberndorf am Neckar
+- 12: Bönstadt
+- 13: Reichelsheim
+- 14: Darmstadt
+- 15: Bopfingen
 
 death (Todesort)
 - 1: lebt noch
