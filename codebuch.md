@@ -108,6 +108,7 @@ organisation
 - 6: Gericht
 - 7: Internierungslager
 - 8: "Judenhaus", Wohnhäuser aus (ehemals) jüdischem Eigentum
+- 9: Deportation
 
 nationality 
 - 1: Deutschland
