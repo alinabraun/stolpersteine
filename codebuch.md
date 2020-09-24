@@ -160,6 +160,8 @@ profession (Beruf)
 - 6: Händler, Buchhalter
 - 7: Prüfer
 - 8: Prokurist
+- 9: Bauarbeiter
+- 10: Friseurin
 
 year birth 
 - In Nodelist wird Jahreszahl individuell eingetragen
