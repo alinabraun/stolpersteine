@@ -55,6 +55,13 @@ duration (Dauer einer Beziehung)
 - 6: über 20 Jahre
 - 7: von Geburt bis Tod
 
+timespan (Zeitspanne der Beziehungen)
+- 1: vor 1933
+- 2: 
+- 3:
+- 4:
+- 5:
+
 
 Vertex-Attribute
 
