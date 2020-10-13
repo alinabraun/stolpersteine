@@ -45,7 +45,6 @@ relation
 time (beschreibt Startzeitpunkt der Beziehung)
 - Jahreszahl wird direkt in Edgelist geschrieben
 
-
 duration (Dauer einer Beziehung)
 - 1: 0-1 Jahr
 - 2: 2-5 Jahre
@@ -57,10 +56,11 @@ duration (Dauer einer Beziehung)
 
 timespan (Zeitspanne der Beziehungen)
 - 1: vor 1933
-- 2: 
-- 3:
-- 4:
-- 5:
+- 2: 1933 bis 1935
+- 3: 1936 bis 1939
+- 4: 1940 bis 1942
+- 5: 1943 bis 1945
+- 6: nach 1945
 
 
 Vertex-Attribute
