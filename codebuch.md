@@ -164,6 +164,7 @@ death (Todesort)
 - 9: Riga
 - 10: San Francisco
 - 11: Izbica
+- 12: Neuseeland
 
 profession (Beruf)
 - 1: Kaufmann/Kauffrau
