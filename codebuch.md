@@ -165,6 +165,7 @@ death (Todesort)
 - 10: San Francisco
 - 11: Izbica
 - 12: Neuseeland
+- 13: Israel
 
 profession (Beruf)
 - 1: Kaufmann/Kauffrau
