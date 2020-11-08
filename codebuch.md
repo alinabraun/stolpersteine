@@ -1,32 +1,6 @@
-Sandhu Feedback: 
--> Familie aussuchen und Wohnort und dann anhand dessen wo sind die hergekommen, was haben sie gemacht und wo sind sie hingekommen?
--> Für Jede Familie ein NW erstellen
--> Familiennetzwerke, exemplarisch zeigen wie das Regime vorgegangen ist
--> geographisches NW 
--> 1. Grad an Verwandtschaft (Eltern, Geschwister)
--> Beruf, Wohnort, enteignet, wo sind sie hindeportiert worden, Eheleute getrennt?
--> NW einer Deportation
-
-https://github.com/hdm-crpr/226305/tree/master/data/wohlleben
-
-https://www.wikiwand.com/de/Liste_der_Stolpersteine_in_Stuttgart
-
-
-- für Pretest: Eine Familie aussuchen 
-
-NW am Ende:
-- Jeder eine Familie 
-- 5 Familien aus Stuttgart
-- NW aufteilen nach verschiedenen Zeitepisoden
-- Für jede Famile eigenes R und Edge und Nodelist 
-
-
 Codebuch 
 
-Fragestellung: Deportationen im Raum Stuttgart anhand von Stolpersteinen (Wer wurde aus welcher Straße (von wo) wann wohin gebracht?)
-
-Edge-Attributes
-= steht für Deportation, ist gerichtet
+Edge-Attribute
 
 relation
 - 1: Familie
@@ -65,7 +39,7 @@ timespan (Zeitspanne der Beziehungen)
 
 Vertex-Attribute
 
-type (da es ein Two-mode Netzwerk ist):
+type 
 - 1: Person
 - 2: Ort
 
@@ -90,15 +64,6 @@ family function (in der Familie)
 - 14: Schwester
 - 15: Bruder
 - 16: Schwager /Schwägerin
-
-Alter 
-- 1: 0 bis 10
-- 2: 10 bis 20 
-- 3: 20 bis 30
-- 4: 30 bis 40
-- 5: 40 bis 50
-- 6: 50 bis 60
-- 7: 60 bis 70
 
 religion 
 - 1: Judentum
