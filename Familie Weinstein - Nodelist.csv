@@ -1,0 +1,36 @@
+id,name,type,sex,familyfunction,religion,organisation,profession,origin,death,education,nationality,year birth,year death
+IsrWei,Israel Weinstein,1,1,1,1,99,2,4,5,99,4,1871,1942
+LuiWei,Luise Nesia Weinstein,1,2,2,1,99,99,4,5,99,4,1887,1942
+LydWei,Lydia Weinstein,1,2,4,1,99,99,4,99,99,4,1899,99
+ClaWei,Claire Weinstein,1,2,4,1,99,4,4,99,5,4,1902,99
+OlgWei,Olga Weinstein,1,2,4,1,99,99,4,99,99,4,1905,99
+DavWei,David Weinstein,1,1,3,1,99,99,5,99,99,1,1908,99
+PauWei,Paula Weinstein,1,2,4,1,99,1,6,99,5,1,1910,99
+FanWei,Fanny Weinstein,1,2,4,1,99,99,6,99,99,1,1911,99
+SieWei,Siegfried Weinstein,1,1,3,1,99,6,2,99,5,1,1914,99
+HelWei,Helmut Weinstein,1,1,3,1,99,99,2,13,99,1,1915,1966
+JulWei,Julius Kurt Weinstein,1,1,3,1,99,5,2,12,5,1,1919,2002
+EriWin,Eric Winton,1,1,13,1,99,99,7,1,99,7,99,99
+HeiStr,Heilmannstrasse 15,2,99,99,99,3,99,99,99,99,99,99,99
+Russ,Russland,2,99,99,99,3,99,99,99,99,99,99,99
+NAFI,Firma NAFI-NAFI,2,99,99,99,1,99,99,99,99,99,99,99
+WalAst,Zigarettenfabrik Waldorf-Astoria,2,99,99,99,1,99,99,99,99,99,99,99
+WerkMa,Werkstatt fuer Mass-Mode,2,99,99,99,1,99,99,99,99,99,99,99
+KauSch,Kaufhaus Schocken,2,99,99,99,1,99,99,99,99,99,99,99
+USA,USA,2,99,99,99,3,99,99,99,99,99,99,99
+Eng,England,2,99,99,99,3,99,99,99,99,99,99,99
+IntLag,Internierungslager,2,99,99,99,7,99,99,99,99,99,99,99
+Jud,"""Judenhaus""",2,99,99,99,8,99,99,99,99,99,99,99
+Haig,Haigerloch,2,99,99,99,3,99,99,99,99,99,99,99
+There,Theresienstadt,2,99,99,99,2,99,99,99,99,99,99,99
+Treb,Treblinka,2,99,99,99,2,99,99,99,99,99,99,99
+Arg,Argentinien,2,99,99,99,3,99,99,99,99,99,99,99
+Neu,Neuseeland,2,99,99,99,3,99,99,99,99,99,99,99
+Pal,Palaestina,2,99,99,99,3,99,99,99,99,99,99,99
+Dach,Dachau,2,99,99,99,2,99,99,99,99,99,99,99
+Linz,Linz am Rhein,2,99,99,99,3,99,99,99,99,99,99,99
+Lüb,Luebeck,2,99,99,99,3,99,99,99,99,99,99,99
+Deu,Deutschland,2,99,99,99,3,99,99,99,99,99,99,99
+Pol,Polen,2,99,99,99,3,99,99,99,99,99,99,99
+Arch,Architekturbuero,2,99,99,99,1,99,99,99,99,99,99,99
+Stu,Stuttgart,2,99,99,99,3,99,99,99,99,99,99,99
