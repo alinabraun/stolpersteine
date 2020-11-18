@@ -11,12 +11,6 @@ output:
 subtitle: Analyse zweier Familiennetzwerke der Stolpersteine in Stuttgart
 ---
 
-
-NACH BENENNUNG DER CHUNKS NOCHMAL SCHAUEN! SIND DIE EINDEUTIG?
-VEREINFACHUNG TEXT!!!
-
-494!
-
 # 1. Einleitung
 
 In dem folgenden Forschungsbericht wird anhand von zwei jüdischen Stolperstein-Familien aus Stuttgart untersucht und verglichen, inwiefern die Nationalsozialisten Einfluss auf die Familienstruktur hatten und wie sich das auf das Familienbeziehungen ausgewirkt hat. Die Forschung arbeitet dies in zeitlichen Abschnitten heraus. 
