@@ -1,0 +1,1453 @@
+---
+title: "226305 Forschungsbericht Gruppe 1"
+author: Annika Mayer am194@hdm-stuttgart.de, Anna Tschürtz at073@hdm-stuttgart.de,
+  Alina Braun ab265@hdm-stuttgart.de, Amelie Kant ak282@hdm-stuttgart.de, Franziska
+  Nistler fn018@hdm-stuttgart.de
+date: "Wintersemester 2020"
+output:
+  word_document: default
+  html_notebook: default
+  pdf_document: default
+subtitle: Analyse zweier Familiennetzwerke der Stolpersteine in Stuttgart
+---
+
+
+NACH BENENNUNG DER CHUNKS NOCHMAL SCHAUEN! SIND DIE EINDEUTIG?
+VEREINFACHUNG TEXT!!!
+
+494!
+
+# 1. Einleitung
+
+In dem folgenden Forschungsbericht wird anhand von zwei jüdischen Stolperstein-Familien aus Stuttgart untersucht und verglichen, inwiefern die Nationalsozialisten Einfluss auf die Familienstruktur hatten und wie sich das auf das Familienbeziehungen ausgewirkt hat. Die Forschung arbeitet dies in zeitlichen Abschnitten heraus. 
+
+Für das Netzwerk wurden zwei Familien betrachtet – Familie Weinstein mit 35 Akteuren und Familie Uhlman mit 23 Akteuren. Anhand dieser beiden Familien, soll die Geschichte von verschiedenen Familien, die unter dem Naziregime gelitten haben, sichtbar und nahbarer gemacht werden. 
+
+Wir haben uns für dieses Projekt entschieden, weil wir für die Schicksale und die vielen Leben, die vernichtet wurden, ein neues Bewusstsein schaffen möchten. Obwohl der Holocaust schon lange her ist, darf er dadurch nicht seinen Schrecken oder seine Bedeutung verlieren. Vor allem in einer Zeit, in der immer mehr Holocaust-Leugner und rechte Bewegungen eine Stimme bekommen, ist es umso notwendiger auf das Thema aus einer neuen Perspektive aufmerksam zu machen. Außerdem möchten wir damit zeigen, dass sich diese schlimmen Taten der Nationalsozialisten "direkt vor unserer Haustür" abgespielt haben und jede Stadt davon betroffen war. Die Stolpersteine sollen im Alltag daran erinnern, dass hinter einem, auf den ersten Blick einfach erscheinenden Stein, ein Menschenleben gesteckt hat, das unter dem Naziregime gelitten hat.
+
+Das führt uns zu folgender Forschungsfrage: „Inwiefern hat die Verfolgung durch die Nationalsozialisten zwischen 1933 und 1945 die Familienstruktur der jüdischen Familien in Stuttgart verändert?“
+
+
+# 2. Vorarbeiten und vergleichbare Studien
+
+## 2.1 Forschungsstand
+
+Da bei der Forschung ein historisches Netzwerk betrachtet wird, behandelt dieser Teil des Forschungsberichts den aktuellen Forschungsstand rund um historische Netzwerke und ordnet unsere Forschung darin ein. 
+
+„Beim derzeitigen Stand der Entwicklung ist es bereits schwer möglich, das Spektrum der Historischen Netzwerkforschung auch nur einigermaßen einzugrenzen. Dies liegt in der Entwicklung des noch jungen Forschungsfeldes begründet […]“ (Düring, Eumann, Stark & Keyserlingk, 2016, S. 45). Laut Düring und Eumann stößt Forschung im Bereich der historischen Netzwerkanalyse auf eine Lücke, da diese zwar betrieben wird, momentan aber nicht genug passiert (Düring & Eumann, 2015). Hinzu kommt, dass das Gebiet noch sehr jung ist und wenig Forschung dazu vorhanden ist. In dem Werk „Handbuch Historische Netzwerkforschung“ wurde erstmalig Wissen über die Besonderheiten in der Erhebung und Analyse historischer und sozialer Netzwerke gebündelt (Düring et al., 2016). Insgesamt etabliert sich die historische Netzwerkforschung immer mehr und wird öfter für alle möglichen Zeiten der Geschichte eingesetzt (Düring et al, 2016 und Düring, 2016).
+
+Es sei an dieser Stelle zu erwähnen, dass es sich bei den bereits existierenden Forschungen vor allem um Analysen von Ego-Netzwerken handelt. Bei dieser Art von Forschung werden beispielsweise Biografien mithilfe von egozentrierten Netzwerken untersucht (Lutz, Schiebel & Tuider, 2018). Allgemein sei zu der Biografieforschung anhand von Ego-Netzwerken jedoch noch gesagt, dass sich die soziale Netzwerkanalyse dabei auf rationale Aspekte der Biografien konzentriert. Die soziale Netzwerkanalyse bettet die Biografie einer Person dabei in größere Zusammenhänge in Beziehung von Biograf:innen ein. Anhand der Ego-Netzwerke beziehungsweise dieser Art von Forschung können relevante Bezugspersonen erkannt, die Intensität und Dichte der Beziehungen bestimmt und Ressourcen beobachtet werden, die zwischen verschiedene Biograf:innen ausgetauscht wurden (Lutz et al., 2018). 
+
+Im zweiten Teil der Beschreibung des Forschungsstandes wird nun auf bereits erforschte historische Netzwerke eingegangen. Bei unserem Forschungsprojekt werden zwei Familien, die in Stuttgart einen Stolperstein haben, miteinander verglichen und jeweils in Bezug auf ihre Teilnetzwerke untersucht. Dabei liegt der Fokus auf der Veränderung der Familienstruktur und inwieweit die Nationalsozialisten diese beeinflusst haben. 
+
+Eine andere historische Netzwerkforschung zum Nationalsozialismus behandelt den Widerstand im Dritten Reich (Keyserlingk, 2018). Hier untersuchte Keyserlingk systematische Verbindungen zwischen den Verschwörern des 20. Julis, die Ego-Netzwerke der einzelnen Personen sowie den zeitlichen Ablauf und den allmählichen Aufbau des Netzwerks aus dem Dritten Reich. Auch unser Forschungsprojekt beschäftigt sich mit dem zeitlichen Verlauf von Beziehungen in einem Netzwerk. Allerdings wird dabei ein anderer thematischer Fokus gewählt – nämlich die Veränderung des Familienlebens jüdischer Familien und inwiefern die Nationalsozialisten dieses beeinflusst haben. Darüber hinaus werden keine egozentrierten, sondern größere Teilnetzwerke untersucht. 
+
+Ein weiteres Beispiel für ein Netzwerk zum Dritten Reich, ist die Forschung zu der Vernetzung des Nationalsozialismus und der Kaiser-Wilhelm-Gesellschaft im Dritten Reich (Hachtmann & Zentrum, 2017). Bei diesem Netzwerk wurden informelle, formelle und einzelne Netzwerke betrachtet und dabei Zentralitätsmaße wie beispielsweise der Betweenness-Wert eingesetzt und untersucht. Auch bei diesem Beispiel lassen sich kleine Parallelen zu unserer Forschung feststellen. Während im eben genannten Netzwerk einzelne Jahre betrachtet und verglichen wurden, haben wir einzelne Zeitabschnitte in zwei bis drei Jahresabständen unterteilt und miteinander verglichen. Da vor allem die Familienstruktur im Vordergrund steht, sind hierbei Zentralitätsmaße weniger wichtig als in der Forschung von Hachtmann.  
+
+Weitere Forschung der historischen Netzwerkanalyse beschäftigt sich mit Verfolgungsnetzwerken im Nationalsozialismus (Seibel & Raab, 2003). Bei diesen geht es um die Arbeitsteilung und Machtdifferenzierung in den Verfolgungsapparaten des Holocaust. Dabei werden Hierarchien und Zentralisierung anhand des Beispiels der Verhaftung und Deportation der christlich getauften Juden aus den Niederlanden untersucht. Hier wurden Teilnetzwerke nach verschiedenen Arten der Beziehung erstellt. Die Beziehungen stellen verschiedene Arten der Beteiligung an der Verfolgung der niederländischen Juden dar. Auch die Zentralität von Akteuren steht besonders im Fokus und wird mithilfe des Betweenness-Wertes untersucht (Seibel et al., 2003). Solche Akteursmaße sind in unserer Forschung, wie bereits erwähnt, weniger relevant. Allerdings wird sowohl in unserem Projekt als auch in der Forschung von Seibel und Raab der Fokus auf Teilnetzwerke gelegt. Jedoch wurden bei Seibel und Raab Teilnetzwerke nach verschiedenen Arten der Beziehung erstellt und analysiert, während bei unserem Projekt Teilnetzwerke erstellt wurden, die die zeitliche Entwicklung des Familienlebens darstellen.
+
+Bei dem letzten Netzwerk, das im Rahmen des Forschungsstands betrachtet wird, geht es um Unterstützungsnetzwerke jüdischer Flüchtlings-Familien im Zweiten Weltkrieg (Düring, 2018). Dabei wurden vor allem Broker, die Kontakte an die Familie weiterleiteten, um zu helfen, untersucht. Düring hat hier ein Daten-Modell entwickelt, welches die Beziehungen zwischen den Akteuren in sechs Dimensionen charakterisiert: Form der Hilfe, Intensität der Beziehungen, Handlungsmotive, Datum der Hilfe und des ersten Treffens und dem Status des Akteurs (nach nationalsozialistischen Rassenkategorien und des Geschlechts).  
+
+Auch wenn unsere Forschung einen anderen Fokus setzt, wird dennoch erkennbar, dass Forschung im Bereich der sozialen historischen Netzwerkanalyse teilweise vorhanden ist. Bis jetzt wurde sie jedoch noch recht selten angewandt. Obwohl zwischen historischen Netzwerken zum Dritten Reich und unserer folgenden Forschungsarbeit kleine Parallelen vorliegen, gibt es unsere Art der Familienforschung im Nationalsozialismus noch nicht. Mit der Forschungsfrage „Inwiefern hat die Verfolgung durch die Nationalsozialisten zwischen 1933 und 1945 die Familienstruktur der jüdischen Familien in Stuttgart verändert?“ und der damit verbunden Netzwerkanalyse, kann also ein wertvoller Beitrag zum weiteren Entwickeln der historischen Netzwerkforschung geleistet werden. 
+
+
+## 2.2 Arbeitshypothesen
+
+Wir gehen von folgenden Arbeitshypothesen aus:
+
+a) Die Familienstruktur hat unter den Nationsalsozialisten gelitten (Kantenanzahl reduziert sich).
+
+b) Aufgrund des historischen Kontextes gehen wir davon aus, dass es einen bestimmten Zeitpunkt geben könnte, an dem die Zerstreuung der Familien besonders deutlich wird. 
+
+c) Die Knotenanzahl wird sich voraussichtlich drastisch verringern.
+
+d) Anhand der Datenquellen nehmen wir an, dass sich die Entwicklung der Familienstruktur von Familie Uhlman und Familie Weinstein grundsätzlich unterscheidet.
+
+Die Hypothesen werden im Folgenden überprüft und entsprechend bestätigt oder widerlegt.
+
+
+# 3. Datenerhebung: Zugang, Bereinigung und Codebuch
+
+## 3.1 Zugang
+
+Die Daten haben wir über die Internetseite der Stolpersteine Stuttgart erhalten (https://www.stolpersteine-stuttgart.de/index.php?docid=196&mid=66). Hier wurden anhand von Material aus verschiedenen Archiven in Baden-Württemberg, Briefen etc. die Leben der Menschen rekonstruiert und in Texte umgewandelt. Zusätzliche Daten über die Familie Weinstein haben wir von der Webseite "geni" erhalten, wodurch wir einzelne Lücken füllen konnten. Das ist eine Stammbaumwebsite, die von dem Enkel Eric Winton angelegt wurde. Auch mit ihm haben wir gesprochen, um mehr Informationen über die Familie Weinstein zu erhalen.
+
+## 3.2 Bereinigung des Datensatzes
+
+Der Datensatz wurde nicht anonymisiert, da die Informationen ohnehin schon öffentlich zugänglich sind. Generell wurde der Datensatz nach der Erhebung nicht stark verändert.Jedoch wurden ein paar zusätzliche Informationen durch den Nachkommen der Familie Weinstein (Erich Winton) ergänzt. Der Datensatz ist unter [Github](https://github.com/alinabraun/stolpersteine) verfügbar.
+
+## 3.3 Codebuch
+
+Das [Codebuch](https://github.com/alinabraun/stolpersteine/blob/master/codebuch.md) beschreibt die Variablen, Relationen und wichtige Eigenschaften der Knoten des Netzwerks und ist ebenfalls auf Github hinterlegt.
+
+
+# 4. Analyse und Interpretation
+
+Im Folgenden werden die Netzwerke der Familien Weinstein und der Familie Uhlman zunächst einzeln betrachtet und anschließend miteinander verglichen. Für die Interpretation wird der historische Kontext herangezogen.
+
+# 4.1 Generelle Beschreibung des Gesamtnetzwerks
+
+Zu Beginn werden beide Netzwerke in R-Studio eingelesen, einige Eckdaten analysiert und in einer einfachen Visualiserung dargestellt, um einen ersten Überblick zu erhalten.
+
+## 4.1.1 Das Gesamtnetzwerk der Familie Weinstein
+
+Das Gesamtnetzwerk der Familie Weinstein umfasst 35 Knoten und 556 Beziehungen. Es handelt sich um ein gerichtetes und ungewichtetes Two-Mode-Netzwerk. 
+
+```{r Gesamnetzwerke einlesen und erste allgemeine Untersuchungen Familie Weinstein, echo=FALSE, message=FALSE, warning=FALSE, paged.print=TRUE}
+
+library(igraph)
+
+# Einlesen der Edge- und Nodelist der Familie Weinstein
+el1 <- read.csv("https://raw.githubusercontent.com/alinabraun/stolpersteine/master/Familie%20Weinstein-Edgelist.csv", header=T, as.is=T, sep = ",")
+nodes1 <- read.csv("https://raw.githubusercontent.com/alinabraun/stolpersteine/master/Familie%20Weinstein%20-%20Nodelist.csv", header=T, as.is=T, sep = ",")
+
+# Matrix Familie Weinstein erstellen
+edgematrix1 <-as.matrix(el1)
+
+# Zusammenführen von Edge- und Nodelist als igraph-Objekt stolwei
+stolwei <- graph_from_data_frame(d=edgematrix1, vertices=nodes1, directed=T)
+stolwei
+
+# Parameter zu Beschreibung des Netzwerks der Familie Weinstein
+
+## Besteht das Netzwerk aus Komponenten?
+## Wenn ja, aus wie vielen?
+is.connected(stolwei)
+components(stolwei)
+
+## Dichte des Netzwerks
+edge_density(stolwei, loops=FALSE )
+
+## Umfang des Netzwerks
+diameter(stolwei)
+
+## Pfaddistanzen (Distance)
+farthest_vertices(stolwei)
+
+```
+
+Das Gesamtnetzwerk der Familie Weinstein besteht aus einer Komponente. Die Dichte im Netzwerk beträgt 46,72 Prozent von allen möglichen Verbindungen. Es handelt sich somit um ein sehr dichtes Familiennetzwerk. Die hohe Dichte kommt dadurch zustande, dass alle Personen im Netzwerk Mitglieder der Familie sind und zwischen ihnen reziproke Beziehungen bestehen. Auch die maximale Pfaddistanz und der Umfang des Netzwerks zeigen die enge Vernetzunng der Familie: Beide Paramter betragen jeweils nur zwei Schritte.
+
+```{r Einfache Visualisierung des Gesamtnetzwerks der Familie Weinstein, fig.height=10, fig.width=14, message=TRUE, warning=TRUE, paged.print=TRUE}
+
+plot(stolwei,
+     asp=0, 
+     layout=layout_with_kk,
+     edge.arrow.size=.5,
+     vertex.size=10,
+     main ="Gesamtnetzwerk Familie Weinstein")
+```
+Wie oben beschrieben, lässt sich die hohe Dichte im Netzwerk von Familie Weinstein auch in der ersten Visualisierung erkennen. Im Zentrum stehen die Familienmitglieder, die alle über viele Kanten verbunden sind.
+
+
+## 4.1.2 Das Gesamtnetzwerk der Familie Uhlman
+
+Das Gesamtnetzwerk der Familie Uhlman umfasst 23 Knoten und 279 Beziehungen und ist ebenfalls ein gerichtetes und ungewichtetes Two-Mode-Netzwerk. Damit ist das Netzwerk der Familie Uhlman kleiner als das der Familie Weinstein, da die Familie weniger Mitglieder hatte und weniger Beziehungen zu Orten und Ländern vorhanden sind.
+
+
+```{r Gesamnetzwerk einlesen und erste allgemeine Untersuchungen Familie Uhlmann, echo=FALSE, message=FALSE, warning=FALSE, paged.print=TRUE}
+
+library(igraph)
+
+# Einlesen der Edge- und Nodelist der Familie Uhlman
+el2 <- read.csv("https://raw.githubusercontent.com/alinabraun/stolpersteine/master/Edgelist%20-%20Familie%20Uhlman.csv", header=T, as.is=T, sep = ",")
+nodes2 <- read.csv("https://raw.githubusercontent.com/alinabraun/stolpersteine/master/Nodelist%20-%20Familie%20Uhlman.csv", header=T, as.is=T, sep = ",")
+
+# Matrix Familie Uhlman erstellen
+edgematrix2 <-as.matrix(el2)
+
+# Zusammenführen von Edge- und Nodelist als igraph-Objekt stoluhl
+stoluhl <- graph_from_data_frame(d=edgematrix2, vertices=nodes2, directed=T)
+stoluhl
+
+# Parameter zu Beschreibung des Netzwerks der Familie Uhlman
+
+## besteht das Netzwerk aus Komponenten?
+## wenn ja, wie vielen?
+is.connected(stoluhl)
+components(stoluhl)
+
+## Dichte des Netzwerks
+edge_density(stoluhl, loops=FALSE)
+
+## Umfang des Netzwerks
+diameter(stoluhl)
+
+## Pfaddistanzen (Distance)
+farthest_vertices(stoluhl)
+
+
+```
+
+Auch das Gesamtnetzwerk der Familie Uhlman besteht (wie das der Familie Weinstein) aus einer Komponente. Wie bereits das Netzwerk der Familie Weinstein weist auch das der Familie Uhlman eine hohe Dichte von 55,14 Prozent auf. Dies lässt sich auf die gegenseitige Vernetzung aller direkten Familienmitglieder miteinandern zurückführen. Der Umfang des Netzwerks und die höchste Pfaddistanz sind allerdings größer und betragen jeweils 3. Denn auch angeheiratete Personen sind nun, im Gegensatz zur Familie Weinstein, Teil des Netzwerks und dadurch erhöhen sich die Pfaddistanz und der Umfang des Gesamtneztwerks.
+
+```{r Einfache Visualisierung des Gesamtnetzwerks der Familie Uhlman, fig.height=10, fig.width=14, message=TRUE, warning=TRUE, paged.print=TRUE}
+
+plot(stoluhl,
+     asp=0, 
+     layout=layout_with_kk,
+     edge.arrow.size=.5,
+     vertex.size=10,
+     main ="Gesamtnetzwerk Familie Uhlman")
+
+```
+Auch anhand dieser ersten Visualisierung wird die dichte Vernetzung zwischen den Familienmitgliedern deutlich. Um den Kern der Familie befinden sich im Vergleich zu Familie Weinstein allerdings deutlich weniger Organisationen und Orte.
+
+
+## 4.2 Erstellung der Teilnetzwerke nach Zeitspanne der Beziehung
+
+Um die Auswirkung der Verfolgung beider Familien auf ihr Familienleben im zeitlichen Verlauf betrachten und vergleichen zu können, wird nun im Folgenden nach dem Edge-Attribut "timespan" selektiert und Teilnetzwerke erstellt. Diese werden anschließend analysiert und verglichen, um so die Forschungsfrage zu beantworten. Das Attribut gibt an, in welchen Zeiträumen eine Beziehung im Netzwerk bestand und kann insgesamt sechs Werte annehmen. Daraus ergeben sich pro Familie sechs Teilnetzwerke, anhand derer sich der zeitliche Verlauf nachvollziehen lässt.
+
+*Teilnetzwerke*
+
+- Teilnetzwerk 1: vor 1933
+- Teilnetzwerk 2: 1933-1935
+- Teilnetzwerk 3: 1936-1939
+- Teilnetzwerk 4: 1940-1942
+- Teilnetzwerk 5: 1943-1945
+- Teilnetzwerk 6: nach 1945
+
+### 4.2.1 Teilnetzwerke der Familie Weinstein
+
+```{r Teilnetzwerke für Familie Weinstein erstellen, fig.height=20, fig.width=25, message=FALSE, warning=FALSE, paged.print=FALSE}
+
+
+#Teilnetzwerk vor 1933
+wei1 <- subgraph.edges(stolwei, E(stolwei)[timespan==" 1"]) 
+
+#Teilnetzwerk 1933-1935
+wei2 <- subgraph.edges(stolwei, E(stolwei)[timespan==" 2"])
+
+#Teilnetzwerk 1936-1939
+wei3 <- subgraph.edges(stolwei, E(stolwei)[timespan==" 3"])
+
+#Teilnetzwerk 1940-1942
+wei4 <- subgraph.edges(stolwei, E(stolwei)[timespan==" 4"])
+
+#Teilnetzwerk 1943-1945
+wei5 <- subgraph.edges(stolwei, E(stolwei)[timespan==" 5"])
+
+#Teilnetzwerk nach 1945
+wei6 <- subgraph.edges(stolwei, E(stolwei)[timespan==" 6"])
+
+
+```
+
+### 4.2.2 Teilnetzwerke der Familie Uhlman
+
+```{r Teilnetzwerke für Familie Weinstein erstellen, fig.height=20, fig.width=25, message=FALSE, warning=FALSE, paged.print=FALSE}
+
+#Teilnetzwerk vor 1933
+uhl1<-subgraph.edges(stoluhl, E(stoluhl)[timespan==" 1"])
+
+#Teilnetzwerk 1933-1935
+uhl2<-subgraph.edges(stoluhl, E(stoluhl)[timespan==" 2"])
+
+#Teilnetzwerk 1936-1939
+uhl3<-subgraph.edges(stoluhl, E(stoluhl)[timespan==" 3"])
+
+#Teilnetzwerk 1940-1942
+uhl4<-subgraph.edges(stoluhl, E(stoluhl)[timespan==" 4"])
+
+#Teilnetzwerk 1943-1945
+uhl5<-subgraph.edges(stoluhl, E(stoluhl)[timespan==" 5"])
+
+#Teilnetzwerk nach 1945
+uhl6<-subgraph.edges(stoluhl, E(stoluhl)[timespan==" 6"])
+
+```
+
+
+## 4.3 Teilnetzwerke analysieren
+
+Im Folgenden werden die Teilnetzwerke nach dem Netzwerkmaß "Dichte" untersucht und zusätzlich die "Komponenten", "Cluster", und "Dyaden" betrachtet. Zudem werden die Ergebnisse beider Familien miteinander verglichen und in den historischen Kontext eingeordnet. Dabei wird bewusst nicht auf die Zentralitätsmaße der Netzwerke eingegangen, da diese für eine Analyse der Familienstruktur nicht relevant sind. Es werden somit die Teilnetzwerke als Gesamtes betrachtet, nicht die einzelnen Akteure. Außerdem werden bewusst nicht die Netzwerkmaße "Cliquen", "Pfaddistanz" und "Umfang" untersucht, da diese wenig relevante Erkenntnisse für die Beantwortung der Forschungsfrage liefern würden. Die Triaden wurden zwar von uns kurz betrachtet, aber nicht in die Analyse aufgenommen, da sie im Vergleich mit den Dyaden keine neuen Werte geliefert haben. Aus diesem Grund wird der Triadenzensus nicht im Forschungsbericht thematisiert.
+
+### 4.3.1 Dichte
+
+Nachfolgend wird die Dichte der einzelnen Teilnetzwerke beider Familien genauer betrachtet. So soll ermittelt werden, wie viele der möglichen Beziehungen in den Netzwerken realisiert wurden. Die Dichte dient auch als Indikator, wie eng die Familien zu verschiedenen Zeitpunkten vernetzt waren.
+
+#### Familie Weinstein
+
+```{r Analyse der Dichte der Teilnetzwerke für Familie Weinstein, fig.height=20, fig.width=25, message=FALSE, warning=FALSE, paged.print=FALSE}
+
+#Teilnetzwerk 1
+edge_density(wei1)
+
+#Teilnetzwerk 2
+edge_density(wei2)
+
+# Teilnetzwerk 3
+edge_density(wei3)
+
+#Teilnetzwerk 4
+edge_density(wei4)
+
+#Teilnetzwerk 5
+edge_density(wei5)
+
+#Teilnetzwer 6
+edge_density(wei6)
+```
+*Dichte Teilnetzwerke Familie Weinstein*
+
+- 1 (vor 1933): 59,56 Prozent
+- 2 (1933-1935): 78,57 Prozent
+- 3 (1936-1939): 47,06 Prozent
+- 4 (1940-1942): 22,22 Prozent
+- 5 (1943-1945): 33,33 Prozent
+- 6 (nach 1945): 5,71 Prozent
+
+*Analyse der Dichte-Werte von Familie Weinstein*
+
+Zunächst lässt sich von den Zeitspannen "vor 1933" und "1933-1935" ein deutlicher Anstieg der Dichte von knapp 20 Prozent erkennen. Grund dafür ist, dass die Familie Weinstein vor 1933 keinen dauerhaften Wohnsitz in Deutschland hatte, da sie aus Russland ausgewandert und in Deutschland oft umgezogen ist. Durch die vielen Orte in diesem Teilnetzwerk sind mehr Beziehungen möglich, die aber nicht von allen Familienmitgliedern realisiert wurden, da die Kinder oft in verschiedenen Städten geboren wurden. Ein Beispiel dafür ist die Geburt der Kinder David und Paula: David wurde in Linz am Rhein geboren und hat dadurch eine Beziehung zu dem Ort. Seine jüngere Schwester Paula jedoch nicht, da sie zwei Jahre später in Lübeck zur Welt kam und damit keine Verbindung zu Linz existiert. 
+
+1913 ließen sie sich in Stuttgart nieder, blieben dort und bekamen weitere Kinder. Da die Weinsteins dort seitdem fest gewohnt haben, ist die Zahl der Orte in der Zeitspanne von 1933 bis 1935 deutlich geringer. Dadurch gibt es weniger mögliche Beziehungen im Netzwerk, die nicht realisiert wurden. Aufgrund der Tatsache, dass alle Familienmitglieder jeweils reziprok miteinander verbunden sind, ist die Dichte dieses Teilnetzwerks deutlich höher als die Dichte vor 1933. 
+
+Im Teilnetwerk zwischen 1936 und 1939 lassen sich erste Spuren der Judenverfolgung feststellen, die sich auch auf die Dichte auswirken. Diese sinkt etwas im Vergleich zu den vorherigen Netzwerken, da mehr Orte im Zusammanhang mit Verfolgung und Flucht dazukommen. Nach der Reichspogromnacht 1938 wurde Siegfried in das KZ Dachau verschleppt. 1939 wanderten zudem Claire, Paula, Julius Kurt und auch Siegfried nach England aus und nahmen somit eine neue Ortsbeziehung auf, die die übrigen Familienmitglieder nicht aufweisen. Es gab also mehr nicht realisierte Beziehungen als in vorherigen Teilnetzwerken. Somit hatte scheinbar auch der Kriegsbeginn 1939 und einen großen Einfluss auf die Dichte des Familiennetzwerks. 
+
+Generell lässt sich sagen, dass die Dichte der Teinetzwerke bis 1940, aufgrund der engen Vernetzung zwischen den einzelnen Familienmitgliedern, sehr hoch ist. Nach der Flucht einiger Kinder löst sich jedoch der Kontakt zur restlichen Familie auf und die Zahl der realisierten Beziehungen sinkt somit stark. Das zeigt sich auch an der Dichte: Sie sinkt auf 22 Prozent. Das ist weniger als die Hälfte im Vergleich zum Teilnetzwerk drei. 
+
+Für das Teilnetzwerk in der Zeitspanne von 1943 bis 1945 lässt sich die Dichte aufgrund der Datenlage nicht komplett einordnen. Es ist nicht bekannt, wie lange die Kinder Fanny, David, Helmut, Olga und Lydia in Deutschland blieben. Aus dem Text lässt sich nur interpretieren, dass sie wahrscheinlich noch bis 1942 in Stuttgart waren und zu einem unbekannten Zeitpunkt ausgewandert sind. Daher wurden ihre Beziehungen nicht in das fünfte Teilnetzwerk mit aufgenommen. Die errechnete Dichte liefert somit keine Erkenntnis über die tatsächliche Dichte des Netzwerks zu dieser Zeit. Das Einzige, das mit Sicherheit gesagt werden kann, ist, dass einige der Kinder schon im Ausland sind und die Eltern bereits 1942 in Treblinka ermordet wurden.
+
+Da die Kinder nach ihrer Auswanderung nie wieder zusammenkamen und somit keinen persönlichen Kontakt mehr hatten, sinkt die Dichte im sechsten Teilnetzwerk nach 1945 drastisch auf 5,71 Prozent. 
+
+Mit zunehmender Verfolgung und daraus resultierender Flucht lässt sich ein Abfall der Dichte im zeitlichen Verlauf erkennen. Dieser zeigt, dass sich die Verbindungen zwischen den Familienmitgliedern bis 1945 immer mehr auflösten.
+
+#### Familie Uhlman
+
+```{r Analyse der Dichte der Teilnetzwerke für Familie Uhlman, fig.height=20, fig.width=25, message=FALSE, warning=FALSE, paged.print=FALSE}
+
+#Teilnetzwerk 1
+edge_density(uhl1)
+
+#Teilnetzwerk 2
+edge_density(uhl2)
+
+#Teilnetzwerk 3
+edge_density(uhl3)
+
+#Teilnetzwerk 4
+edge_density(uhl4)
+
+#Teilnetzwerk 5
+edge_density(uhl5)
+
+#Teilnetzwerk 6
+edge_density(uhl6)
+
+
+```
+
+*Dichte Teilnetzwerke Familie Uhlman*
+
+- 1 (vor 1933): 47,27 Prozent
+- 2 (1933-1935): 47,27 Prozent
+- 3 (1936-1939): 31,82 Prozent
+- 4 (1940-1942): 20,83 Prozent
+- 5 (1943-1945): 30,95 Prozent
+- 6 (nach 1945): 66,67 Prozent
+
+*Analyse der Dichte-Werte*
+
+Zunächst lässt sich feststellen, dass sich in den Teilnetzwerken "vor 1933" und "1933 bis 1935" keine Veränderungen in der Dichte ergeben. In beiden Teilnetzwerken liegt die Dichte bei 47,27 Prozent und ist damit relativ hoch. Das lässt sich darauf zurückführen, dass ein Großteil der Beziehungen zwischen den Familienmitgliedern stattfinden und diese alle miteinander reziprok verbunden sind. In diesen zwei Zeitspannen hat sich somit in der Familienstruktur und insgesamt für die Familie und ihr Leben nichts verändert.
+
+In der Zeit von 1936 bis 1939 sinkt die Dichte des Teilnetzwerks. Grund dafür ist, dass der Sohn, Fred Uhlman nach England auswanderte. Durch historische Ereignisse wie der Erlass der "Nürnberger Gesetze" 1935 und die Tatsache, dass jüdischen Rechtsanwälten wie Fred Uhlman nach und nach die Rechte entzogen wurden, kann man davon ausgehen, dass er aus politischen Gründen floh. Als Sozialdemokrat unterstützte er politische Feinde der Nationalsozialisten in rechtlichen Dingen und machte sich dadurch zum Feind. Sein persönlicher Kontakt mit der restlichen Familie endete mit der Auswanderung und damit sank auch die Zahl der realisierten Beziehungen und die Dichte im Teilnetzwerk.
+
+Auch im Zeitraum von 1940 bis 1942 sank die Dichte weiter. Zu dem Teilnetzwerk kommen neue Orte dazu, die die Verfolgung der Familie Uhlman in dieser Zeit zeigen. Die Eltern Johanna und Ludwig kamen in ein jüdisches Altersheim und später zusammen mit Oskar Uhlman in das KZ Theresienstadt. Erna Uhlman und ihre Tochter Tana mussten in das KZ Ausschwitz. Dieses Schicksal teilten viele Juden durch die zahlreichen Deportationen 1941 und 1942. Aufgrund der größeren Anzahl an Orten im Netzwerk, steigt auch die Zahl der möglichen Beziehungen. Weil nicht alle Familienmitglieder eine Beziehung zu diesen Orten hatten, sinkt die Dichte insgesamt.
+
+Im fünften Teilnetzwerk steigt die Dichte um etwa 10 Prozent, da viele Knoten aus vorherigen Teilnetzwerken nicht mehr vorhanden sind. Dies liegt daran, dass Erna und Tana bereits gestorben sind. 1943 sterben auch Johanna und Ludwig in Theresienstadt. 
+
+Auch im sechsten Teilnetzwerk zeigt sich drastisch die Grausamkeit der Nationalsozialisten. Es sind nur noch zwei Personen der Familie am Leben: Fred Uhlman und seine Frau Lady Diana. Dadurch ergibt sich eine hohe Dichte von 66,67 Prozent, da es nur wenige Knoten gibt und die Zahl der möglichen Beziehungen gering ist. Weil die meisten von ihnen realisiert sind, ist auch die Dichte dementsprechend hoch.
+
+
+#### Vergleich Familie Weinstein und Familie Uhlman (Dichte)
+
+Insgesamt ist bei Familie Weinstein und Familie Uhlman die Dichte der ersten zwei bis drei Teilnetzwerke ziemlich hoch. Sowohl die Familie Weinstein als auch die Familie Uhlman sind zu Beginn eng miteinander vernetzt, was bedeutet, dass jedes Familienmitglied wechselseitige Beziehungen zueinander hat. Ein Einschnitt erfolgt in der Zeitspanne von 1936 bis 1939 für beide Familien in Bezug auf die Dichte. Grund dafür ist vermutlich die durch die Nürnberger-Rassengesetze zunehmende Judenverfolgung. Einzelne Familienmitglieder aus beiden Familien fliehen ins Ausland: Dadurch gibt es weniger Beziehungen zwischen den Personen. Ein wesentlicher Unterschied der beiden Familien zeigt sich in der Entwicklung der Dichte nach 1939. Bei der Familie Weinstein überlebten alle Kinder in verschiedenen Ländern. Da die Kinder nach 1945 keinen persönlichen Kontakt mehr hatten, ist die Dichte schlussendlich sehr gering. Bei Familie Uhlman dagegen steigt die Dichte kontinuerlich bis nach 1945, da die meisten Familienmitglieder in KZs gestorben sind. Die übriggebliebenen Personen sind eng vernetzt, weshalb der Wert so hoch ist. 
+
+
+### 4.3.2 Komponenten
+
+Im Folgenden werden nun die Komponenten der Teilnetzwerke beider Familien untersucht. Auch hiermit lässt sich die Entwicklung der Familienstrukturen im zeitlichen Verlauf betrachten: Es soll analysiert werden, ob die Veränderungen in der Familienstruktur auch in den Komponenten zu sehen sind. 
+
+#### Familie Weinstein
+
+```{r Analyse der Komponenten der Teilnetzwerke für Familie Weinstein, fig.height=20, fig.width=25, message=FALSE, warning=FALSE, paged.print=FALSE}
+
+#Teilnetzwerk 1
+components(wei1)
+
+#Teilnetzwerk 2
+components(wei2)
+
+#Teilnetzwerk 3
+components(wei3)
+
+#Teilnetzwerk 4
+components(wei4)
+
+#Teilnetzwerk 5
+components(wei5)
+
+#Teilnetzwerk 6
+components(wei6)
+
+
+```
+
+*Analyse der Komponenten*
+
+Generell lässt sich das Auseinanderreißen der Familie Weinstein während der NS-Zeit sehr anschaulich durch die Analyse der Komponenten erkennen. Die ersten drei Teilnetzwerke bestehen noch aus einer großen Komponente: In diesen Zeitspannen waren alle Familienmitglieder beieinander und standen eng miteinander in Beziehung. Durch die zunehmende Verfolgung der Juden wanderten vier Kinder im Jahr 1939 nach England aus, der persönliche Kontakt mit der Familie brach ab. Daher zeigt sich im Teilnetzwerk von der Zeitspanne 1940 bis 1942, dass sich die Familie nun in zwei Komponenten aufteilt: Eine kleinere Teilkomponente aus vier Knoten und eine größere Hauptkomponente aus 14 Knoten. Die Teilkomponente besteht aus den beiden Kindern Siegfried und Claire sowie England und dem Internierungslager, in dem Siegfried als "feindlicher Ausländer" festgehalten wurde. Paula und Julius Kurt, die ebenfalls 1939 nach England auswanderten, sind aufgrund einer Lücke in der Datenquelle nicht Teil dieser Komponente. Es ist bekannt, dass beide nach ihrem Aufenthalt in England in die USA beziehungsweise nach Neuseeland auswanderten. Wann das genau passierte, ist jedoch nicht in der Quelle zu finden. Daher sind sie nicht in diesem Teilnetzwerk zu sehen. Es ist also auch möglich, dass es in diesem Teilnetzwerk in der Realität noch weitere Komponenten gab. Die Hauptkomponente besteht aus den in Deutschland gebliebenen Familienmitgliedern und den Orten, mit denen sie in Verbindung stehen. Darunter sind auch Orte der Verfolgung, wie ein Judenhaus in Stuttgart, in dem die Eltern leben mussten oder das KZ Theresienstadt, in das sie später deportiert wurden.
+
+Bei der Analyse der Komponenten des fünften Teilnetzwerks ergeben sich durch die Lücken in der Datenquelle in diesem Zeitraum dieselben Probleme wie bei der Analyse der Dichte. Daher können hier keine sicheren Aussagen über die Entwicklung der Komponenten im Zeitraum von 1943 bis 1945 getroffen werden.
+
+Im Zeitraum nach 1945 wird jedoch anhand der Komponenten das ganze Ausmaß der Verfolgung und Flucht auf die Struktur der Familie Weinstein sichtbar. Das Teilnetzwerk besteht in dieser Zeitspanne aus fünf kleinen Komponenten. Diese umfassen die fünf Länder, in die alle Kinder ausgewandert sind und die jeweils dort lebenden Personen. Keiner von ihnen lebt mehr in Stuttgart und da auch die Eltern tot sind, kommt der Ort nicht mehr als Knoten im Teilnetzwerk vor.
+
+Die Hauptkomponente der in Stuttgart lebenden Familie hat sich somit durch die Verfolgung der Familie im Nationalsozialismus in fünf kleine Komponenten aufgelöst, welche rund um die Welt verteilt sind.
+
+
+#### Familie Uhlman
+
+```{r Analyse der Komponenten der Teilnetzwerke für Familie Uhlman, fig.height=20, fig.width=25, message=FALSE, warning=FALSE, paged.print=FALSE}
+
+#Teilnetzwerk 1+
+components(uhl1)
+
+#Teilnetzwerk 2
+components(uhl2)
+
+#Teilnetzwerk 3
+components(uhl3)
+
+#Teilnetzwerk 4
+components(uhl4)
+
+#Teilnetzwerk 5
+components(uhl5)
+
+#Teilnetzwerk 6
+components(uhl6)
+
+```
+
+*Analyse der Komponenten*
+
+Anhand der Komponenten der Familie Uhlman erkennt man deutlich die Vernichtung der Juden durch die Nationalsozialisten. Sowohl das erste als auch das zweite Teilnetzwerk besteht aus jeweils zwei Komponenten. Die kleinere Teilkomponente enthält zwei Knoten, Fred Uhlmans zukünftige Ehefrau Lady Diana Croft und seine spätere Heimat Großbritannien. Lady Diana befindet sich in der Komponente ohne Beziehungen zur Familie Uhlman, da sie zu diesem Zeitpunkt noch nicht mit Fred Uhlman verheiratet war. Trotzdem ist sie bereits Bestandteil dieser beiden Teilnetzwerke, da sie über eine Beziehung zu Großbritannien verfügt, die im späteren Verlauf relevant wird für die Familie. In der größeren Hauptkomponente befinden sich neun Knoten und somit alle Familienmitglieder. Diese sind alle bis 1935 miteinander verbunden. Nach 1935 vergrößert sich die Teilkomponente auf drei Knoten, denn Fred Uhlman wanderte zu dieser Zeit nach Großbritannien aus. Diese Komponente bleibt auch in den folgenden Teilnetzwerken bestehen und ist immer gleich groß. 
+
+Bei der Hauptkomponente, in der sich die Familie in Stuttgart befindet, schwankt die Anzahl der Knoten. Im Teilnetzwerk von 1940 bis 1942 kommen vier Knoten im Zuge der stärkeren Verfolgung der Juden hinzu: Dabei handelt es sich um KZs und "Jüdische Altersheime", in die einige Familienmitglieder gebracht wurden. Zwischen 1943 und 1945 verkleinert sich die Hauptkomponente: Sie enthält lediglich vier Knoten. Nur noch Ludwig, Johanna und Oskar sind zu diesem Zeitpunkt am Leben und werden in das KZ Theresienstadt deportiert.
+
+Im Teilnetzwerk für den Zeitraum nach 1945 ist nur noch die eine Komponente von Fred Uhlman, Lady Diana Croft und Großbritannien übrig. Alle Familienmitglieder der ursprünglichen Hauptkomponente sind in den KZs umgekommen. 
+
+
+#### Vergleich Familie Weinstein und Uhlman (Komponenten)
+
+In Bezug auf die Komponenten lassen sich zentrale Unterschiede zwischen Familie Weinstein und Familie Uhlman erkennen. Die Analyse der Komponenten der Familie Weinstein zeigt, wie eine Familie während des Nationalsozialismus zerbricht, weil alle Kinder in verschiedene Länder fliehen. Aus einer großen Hauptkomponente zu Beginn wurden nach 1945 fünf kleine Komponenten, die auch geographisch über den ganzen Globus verstreut sind. Bei der Familie Uhlman dagegen lässt sich erkennen, was passierte, wenn eine Flucht nicht möglich ist und die Familienmitglieder in Deutschland bleiben mussten. Von zwei Komponenten war letztendlich nur noch eine übrig, die aus lediglich einem direkten Familienmitglied und dessen Ehefrau bestand. Die Hauptkomponente mit allen Familienmitgliedern wurde im Zeitverlauf immer kleiner, bis sie schließlich verschwand. Daraus lässt sich auch schließen, dass oftmals die Flucht ins Ausland auch für Stuttgarter Familien die einzige Chance war, um zu überleben.
+
+
+### 4.3.3 Cluster
+
+Nun sollen die Cluster innerhalb der Teilnetzwerke genauer betrachtet werden. Für die Analyse wird dabei mit dem Walktrap-Algorithmus gearbeitet. Dieser berechnet die Cluster als Ansammlung von Knoten, die eng miteinander verbunden sind. Auf diese Weise kann ermittelt werden, welche Familienmitglieder laut dem Datensatz besonders eng verbunden waren und wie sich das im Zeitverlauf verändert hat. 
+
+#### Familie Weinstein
+
+```{r Analyse der Cluster der Teilnetzwerke für Familie Weinstein, fig.height=20, fig.width=25, message=FALSE, warning=FALSE, paged.print=FALSE}
+
+#Teilnetzwerk 1
+clusterwei1<-cluster_walktrap(wei1)
+plot(clusterwei1, wei1, layout=layout_nicely, asp=0)
+
+#Teilnetzwerk 2
+clusterwei2<-cluster_walktrap(wei2)
+plot(clusterwei2, wei2, layout=layout_with_kk, asp=0)
+
+#Teilnetzwerk 3
+clusterwei3<-cluster_walktrap(wei3)
+plot(clusterwei3, wei3, layout=layout_with_kk, asp=0)
+
+#Teilnetzwerk 4
+clusterwei4<-cluster_walktrap(wei4)
+plot(clusterwei4, wei4, layout=layout_with_kk, asp=0)
+
+#Teilnetzwerk 5
+clusterwei5<-cluster_walktrap(wei5)
+plot(clusterwei5, wei5, layout=layout_with_kk, asp=0)
+
+#Teilnetzwerk 6
+clusterwei6<-cluster_walktrap(wei6)
+plot(clusterwei6, wei6, layout=layout_with_kk, asp=0)
+
+
+```
+
+*Analyse der Cluster*
+
+Bei Durchführung der Clusteranalyse mit dem Walktrap-Algorithmus zeigt sich, dass in den ersten drei Teilnetzwerken jedes Cluster nur aus einem einzelnen Knoten besteht. Mit dem Walktrap-Algortihmus werden eng zusammenhängende Knoten mit kurzen Pfaddistanzen berechnet. Die Analyse der ersten drei Teilnetzwerke suggeriert, dass die Knoten in den Netzwerken alle nicht dicht miteinander verbunden sind. Jedoch steht das im Widerspruch zu den engen Beziehungen, die die Weinsteins als Familienmitglieder in der Realität noch vor Hitlers Machtergreifung 1933 und die Jahre danach wahrscheinlich hatten. Schließlich lebten sie bis 1939 alle zusammen in Stuttgart und pflegten gegenseitige familiäre Beziehungen.
+
+Im Zeitraum von 1940 bis 1942 zeigt sich eine Parallele zur Analyse der Komponenten des Teilnetzwerks: Es lassen sich zwei Cluster erkennen, die die räumliche Distanz zwischen den Familienmitgliedern wiederspiegelt. Siegfried und Claire, die aufgrund der Judenverfolgung in Deutschland im Jahr des Kriegsbeginns nach England geflohen sind, bilden eines der Cluster, da sie logischerweise durch den Aufenthalt im gleichen Land eine enge Verbindung im Netzwerk haben. Hier sei zu betonen, dass dies durch die gemeinsame geographische Lage der beiden Geschwister zustandekommt, sie laut Angaben der Datenquelle jedoch keinen regelmäßigen persönlichen Kontakt hatten. Die in Deutschland lebenden Familienmitglieder bilden ebenfalls ein Cluster aus eng vernetzten Knoten, da auch sie einen gemeinsamen lokalen Bezug haben. Zudem haben sie weiterhin die Möglichkeit, sich regelmäßig zu sehen und ihre Beziehungen zueinander zu pflegen.
+
+Beim Teilnetzwerk für den Zeitraum von 1943 bis 1945 ergeben sich bereits wie bei der Analyse der Dichte und der Komponenten aufgrund der Datenlage Probleme. Daher ist die Analyse der Cluster hier nicht sinnvoll.
+
+Nach 1945 zeigt sich im Teilnetzwerk wie auch bei der Analyse der Komponenten, wie sehr die Judenverfolgung der Nazis sich auf die Familienstruktur der Weinsteins ausgewirkt hat. Das Teilnetzwerk besteht entsprechend der Komponenten aus fünf Clustern. Jedes dieser Cluster steht für ein Land, in das die Kinder geflohen sind. Diese unterschieden sich auch in der Größe voneinander: Die USA ist das größte Cluster, da hier vier der neun Kinder emigrierten. Palästina ist dagegen beispielsweise ein kleines Cluster, da hier nur Helmut Weinstein lebte. Auch hier spiegeln die Cluster die geographische Nähe der Familienmitglieder wieder. 
+
+
+#### Familie Uhlman
+
+```{r Analyse der Cluster der Teilnetzwerke für Familie Uhlman, fig.height=20, fig.width=25, message=FALSE, warning=FALSE, paged.print=FALSE}
+
+#Teilnetzwerk 1
+clusteruhl1<-cluster_walktrap(uhl1)
+plot(clusteruhl1, uhl1, layout=layout_with_kk, asp=0)
+
+#Teilnetzwerk 2
+clusteruhl2<-cluster_walktrap(uhl2)
+plot(clusteruhl2, uhl2, layout=layout_with_kk, asp=0)
+
+#Teilnetzwerk 3
+clusteruhl3<-cluster_walktrap(uhl3)
+plot(clusteruhl3, uhl3, layout=layout_with_kk, asp=0)
+
+#Teilnetzwerk 4
+clusteruhl4<-cluster_walktrap(uhl4)
+plot(clusteruhl4, uhl4, layout=layout_with_kk, asp=0)
+
+#Teilnetzwerk 5
+clusteruhl5<-cluster_walktrap(uhl5)
+plot(clusteruhl5, uhl5, layout=layout_with_kk, asp=0)
+
+#Teilnetzwerk 5
+clusteruhl6<-cluster_walktrap(uhl6)
+plot(clusteruhl6, uhl6, layout=layout_with_kk, asp=0)
+```
+
+*Analyse der Cluster*
+
+Bei der Familie Uhlman ergibt die Berechnung mit dem Walktrap-Algorithmus in den ersten beiden Teilnetzwerken zwei Cluster, die auch mit den Komponenten übereinstimmen. Das größere der beiden Cluster umfasst alle Familienmitglieder, die in Stuttgart wohnen und im selben Haus leben. Das zweite Cluster umfasst zwei Knoten: Fred Uhlmans zukünftige Frau Lady Diana Croft und ihren Wohnort Großbritannien. 
+
+Fred Uhlman schließt sich im dritten Teilnetzwerk für den Zeitraum von 1936 bis 1939 diesem kleineren Cluster an, als er 1936 aus politischen Gründen flieht. Sonst bleibt die Clusterstruktur gleich und spiegelt die räumliche Trennung der Familie wieder. Das kleinere Cluster grenzt Großbritannien vom Rest der Kernfamilie in Stuttgart ab. Da die Familienmitglieder in Stuttgart nach dem Walktrap-Algorithmus in ein Cluster zusammengefasst werden, kann man auch innerhalb dieser Kernfamilie trotz zunehmender Verfolgung von engen Verbindungen zwischen den Personen ausgehen.
+
+Im vierten Teilnetzwerk von 1940 bis 1942 kommen bei dem großen Cluster nur neue Orte der Verfolgung hinzu, wie beispielsweise "Jüdische Altersheime" und KZs. Ansonsten scheinen auch in diesem Zeitraum - nach der Analyse mit dem Walktrap-Algorithmus - alle in Stuttgart lebenden Familienmitglieder enge Beziehungen zueinander zu pflegen. Das kleinere Cluster bleibt gleich. 
+
+Auch in der Zeit von 1943 bis 1945 bleiben beide Cluster bestehen. Das große Cluster der Familienmitglieder in Stuttgart schrumpft jedoch auf vier Knoten, da einige Personen bereits in KZs umgekommen sind. Wie in allen vorherigen Teilnetzwerken ist das Cluster auch in diesem Teilnetzwerk dennoch das größere Cluster von beiden.
+
+Nach 1945 besteht das Teilnetzwerk aus drei Clustern mit je einem Knoten. Zwei davon sind die einzigen Überlebenden der Familie Uhlman, Fred Uhlman und seine Frau. Das andere Cluster umfasst ihren Wohnort Großbritannien. Die Darstellung durch den Walktrap-Algorithmus lässt es so wirken, als ob Diana und Fred nicht sonderlich eng verbunden sind, da sie sich nicht in einem Cluster befinden. Jedoch wird das in der Realität nicht der Fall gewesen sein, da beide miteinander verheiratet waren. 
+
+
+#### Vergleich Familie Weinstein und Familie Uhlman (Cluster)
+
+Bei beiden Familien fällt auf, dass solange Familienmitglieder in Stuttgart waren, diese vom Walktrap-Algorithmus meist in ein Cluster zusammengefasst werden. Dies lässt darauf schließen, dass die Familienmitglieder während ihrer gemeinsamen Zeit in Stuttgart, trotz den zunehmend schlechteren Bedingungen für jüdische Familien, eng in Beziehung zueinander standen. Neue Cluster entstehen in den Teilnetzwerken der beiden Familien nur durch geographische Trennung der Personen, bei Flucht und Auswanderung. Dies wird besonders bei Familie Weinstein deutlich, bei der alle Kinder vor dem Regime der Nationalsozialisten in verschiedene Länder fliehen. So bleiben nach 1945 fünf verschiedene Cluster übrig, die jeweils für ein Land und die darin lebenden Familienmitglieder stehen. Aufgrund der geographischen Nähe und des Kontaktabbruchs zu den restlichen Geschwistern, wurden diese vom Walktrap-Algorithmus in eng vernetzte Cluster eingeteilt. Auch bei Familie Uhlman entsteht durch Fred Uhlmans Ehefrau und seine Flucht vor der Verfolgung ein Cluster rund um Großbritannien. Das Cluster der in Stuttgart lebenden Familienmitglieder wird jedoch immer kleiner und umfasst weniger Knoten, da die Familienmitglieder in KZs gebracht und dort systematisch ermordet wurden. Somit lässt sich anhand der Entwicklung der Cluster in der Familie Uhlman wieder der Verlauf der Ermordung von Juden erkennen, die nicht aus Deutschland fliehen konnten. Bei Familie Weinstein bleiben die Knoten dagegen insgesamt erhalten und verteilen sich nur auf neue Cluster. Auch hier lässt sich wieder das Auseinanderbrechen der Familie durch die Flucht vor dem NS-Regime erkennen.
+
+
+### 4.3.4 Dyadenzensus
+
+Auch die Anzahl der Dyaden in den Teilnetzwerken kann Erkenntnisse über die Familienbeziehungen und deren Veränderung liefern. Anzumerken ist dabei, dass die Anzahl der Beziehungen, die mutual sind, die Zahl der Beziehungen zwischen den Familienmitgliedern wiedergibt. Denn nur zwischen diesen sind reziproke Verbindungen im Netzwerk vorhanden. Die asymmetrischen Beziehungen stehen dabei für die Verbindungen von Personen zu Orten, da diese im Netzwerk immer nur einseitig gerichtet sind. Die Nullbeziehungen repräsentieren die nicht vorhandenen Beziehungen.
+
+#### Dyadenzensus Familie Weinstein
+
+```{r Berechnung des Dyadenzensus der Teilnetzwerke von Familie Weinstein, fig.height=20, fig.width=25, message=FALSE, warning=FALSE, paged.print=FALSE}
+
+#Dyadenzensus Teilnetzwerk 1
+dyad.census(wei1)
+
+#Dyadenzensus Teilnetzwerk 2
+dyad.census(wei2)
+
+#Dyadenzensus Teilnetzwerk 3
+dyad.census(wei3)
+
+#Dyadenzensus Teilnetzwerk 4
+dyad.census(wei4)
+
+#Dyadenzensus Teilnetzwerk 5
+dyad.census(wei5)
+
+#Dyadenzensus Teilnetzwerk 6
+dyad.census(wei6)
+
+```
+
+*Analyse der Dyaden*
+
+Wie oben bereits erwähnt, handelt es sich bei den reziproken Beziehungen um das Familienkonstrukt der Weinsteins. Dieses verändert sich von vor 1933 bis 1939 offensichtlich nicht: Die Zahl der Dyaden, die mutual sind, bleibt bei 55 und die Beziehungen zwischen den Personen in diesem Zeitraum somit bestehen. Vor Kriegsbeginn 1939 konnte die Familie Weinstein also, trotz der Machtergreifung 1933 und einer zunehmenden Verfolgung der Juden seit Erlass der Nürnberger Gesetze 1935, beieinander bleiben. Dieser Eindruck verstärkt sich auch durch Betrachtung der Anzahl der asymmetrischen Ortsbeziehungen in den Teilnetzwerken "1933 bis 1935" und "1936 bis 1939": Die Anzahl bleibt stabil und verändert sich nur um eine Verbindung. Vor 1933 ist die Anzahl der Ortsbeziehungen höher, da die Familie Weinstein zu der Zeit immer wieder umzog, bis sie dauerhaft in Stuttgart blieb. 
+
+Bei der Zahl der Nullbeziehungen lassen sich bis zum Kriegsbeginn 1939 große Schwankungen erkennen. Vor 1933 liegt die Zahl der Nullbeziehungen bei 29, von 1933 bis 1935 sinkt sie auf drei Verbindungen und steigt dann von 1936 bis 1939 drastisch auf 64 Beziehungen. Die geringe Zahl der Nullbeziehungen von 1933 bis 1935 lässt sich damit erklären, dass zu dieser Zeit alle in der Familie eine Beziehung zueinander und eine Beziehung zu ihren Wohnorten hatten. Nur die drei Wohnorte Stuttgart, Deutschland und die Heilmannstraße haben keine Beziehung zueinander. Von 1936 bis zum Jahr des Kriegsbeginns gibt es allerdings zahlreiche Nullbeziehungen. Aus dieser Zahl lassen sich bereits die zunehmende Verfolgung der Juden und ihre Auswirkungen auf die Familie erkennen. In diesem Teilnetzwerk gibt es neue Orte, zu denen nicht alle Familienmitglieder eine Beziehung haben, zum Beispiel kommt nur Siegfried in dieser Zeit nach Dachau. Außerdem fliehen vier der neun Kinder 1939 nach England. Dies ist der Situation in Deutschland geschuldet, die sich immer mehr zuspitzt: 1938 kommt es zur Reichspogromnacht, in diesem Jahr werden Juden auch aus dem deutschen Wirtschaftsleben ausgeschalten. Dies trifft die jungen Kinder, wie beispielsweise Claire, die eine eigene Schneiderei führte und schließlich wie drei andere Geschwister floh. 
+
+Dadurch sinkt auch die Zahl der reziproken Beziehungen im Teilnetzwerk von 1940 bis 1942 auf nur noch 20 gegenseitige Verbindungen. Da die ausgewanderten Kinder Claire, Siegfried, Paula und Julius Kurt, keinen direkten Kontakt mehr mit dem Rest der Familie hatten, steigt in diesem Zeitraum auch die Anzahl der Nullbeziehungen weiter auf 104. Die Ortsbeziehungen sinken außerdem auf 28. Denn es kommen in dem vierten Teilnetzwerk Orte dazu, zu denen allerdings nicht alle Familienmitglieder eine Beziehung haben. Die Eltern der Familie Weinstein, Luise Nesia und Israel, kommen im Zuge der bei der Wannseekonferenz 1942 beschlossenen "Endlösung der Judenfrage" als einzige der Familie erst nach Theresienstadt, dann in das Vernichtungslager Treblinka. Die anderen Kinder werden nicht dorthin deportiert, sondern können in Stuttgart bleiben oder fliehen und haben deshalb keine Beziehungen zu den Orten.
+
+Für das Teilnetzwerk fünf lassen sich erneut keine genauen Aussagen treffen.
+
+Im Teilnetzwerk nach 1945 zeigt sich das ganze Ausmaß der Verfolgung und Flucht der Familie. Es gibt nur noch eine reziproke Beziehung zwischen Julius Kurt und seinem Sohn Eric Winton. Auch zwischen den geflohenen Geschwistern gibt es keine gegenseitigen Beziehungen mehr, da sie keinen regelmäßigen direkten Kontakt pflegen und auf der Welt verstreut sind. So lässt sich auch die hohe Zahl der Nullbeziehungen von 94 erklären: Ihre Flucht hat die Beziehung zwischen den Geschwistern aufgelöst. Es gibt insgesamt zehn asymmetrische Ortsbeziehungen, die für die Beziehung der Kinder der Familie Weinstein zu ihrem neuen Heimatort steht.
+
+
+#### Dyadenzensus Familie Uhlman
+
+```{r Berechnung des Dyadenzensus der Teilnetzwerke von Familie Uhlman, fig.height=20, fig.width=25, message=FALSE, warning=FALSE, paged.print=FALSE}
+
+library(igraph)
+#Dyadenzensus Teilnetzwerk 1
+dyad.census(uhl1)
+
+#Dyadenzensus Teilnetzwerk 2
+dyad.census(uhl2)
+
+#Dyadenzensus Teilnetzwerk 3
+dyad.census(uhl3)
+
+#Dyadenzensus Teilnetzwerk 4
+dyad.census(uhl4)
+
+#Dyadenzensus Teilnetzwerk 5
+dyad.census(uhl5)
+
+#Dyadenzensus Teilnetzwerk 6
+dyad.census(uhl6)
+
+```
+
+*Analyse der Dyaden*
+
+In den Zeitspannen "vor 1933" und "1933 bis 1935" ändert sich nicht viel in der Familienstrukutr, denn die Zahl der verschiedenen Beziehungen bleibt jeweils gleich. Alle Familienmitglieder haben eine gegenseitige Beziehung zueinander, insgesamt gibt es 15 reziproke Verbindungen. Die Familie ist zu dieser Zeit also noch miteinander verknüpft. Außerdem gibt es zwölf asymmetrische Ortsbeziehungen, die hauptsächlich die Verbindungen der einzelnen Familienmitglieder zu ihren Wohnorten Stuttgart und der Hölderlinstraße darstellen. Innerhalb der Familienstruktur der Uhlmans gibt es kaum Nullbeziehungen. Der Wert von 23 Nullbeziehungen kommt daurch zustande, dass Lady Diana Croft und ihr damit verbundener Wohnort Großbritannien in dieser Zeitspanne noch nicht zu Familie Uhlman in Beziehung steht. 
+
+Auch in der Zeit nach 1935, nach der Erlassung der Nürnberger Gesetze und der sich verschlimmernden Situation der deutschen Juden, bestehen weiterhin 15 gegenseitige Beziehungen. Die Familie ist somit zu dieser Zeit noch beieinader. Jedoch zeigt die Analyse der Dyaden für dieses Teilnetzwerk, dass die Anzahl der Nullbeziehungen gestiegen ist. Dies lässt sich damit erklären, dass Fred Uhlman nach Großbritannien floh, aufgrund der sich verschlimmernden Situation und den oben geschilderten Benachteiligungen für seinen Beruf. So brach zwischen ihm und dem Rest der Familie in Stuttgart der regelmäßige persönliche Kontakt ab. Da er Diana Croft heiratete, bleibt die Zahl der reziproken Beziehungen jedoch gleich, wie auch die asymmetrischen Ortsbeziehungen.
+
+Für das Teilnetzwerk von 1940 bis 1942 scheint die Familie nach Analyse der Dyaden ebenfalls noch zusammengeblieben zu sein, denn auch hier bleibt die Zahl der reziproken Beziehungen konstant bei 15. Jedoch kommen im Zuge der "Endlösung der Judenfrage", der ansteigenden Zahl an Deportationen und der immer schlimmer werdenden Verfolgung der Juden, neue Orte in das Netzwerk dazu. Ein Beispiel dafür sind "Jüdische Altersheime", in die Oskar, Ludwig und Johanna Uhlman gebracht werden oder die KZs Theresienstadt und Ausschwitz. Daher nimmt auch die Zahl der asymmetrischen Ortsbeziehungen in diesem Teilnetzwerk zu und steigt auf 20. Die Nullbeziehungen verdoppeln sich im Vergleich zum Teilnetzwerk davor auf 85. Dies lässt sich damit erklären, dass nicht alle Familienmitglieder in die gleichen KZs deportiert wurden und deshalb auch keine Beziehungen zu diesen Orten haben.
+
+Ab diesem Zeitpunkt sinkt auch generell die Anzahl aller Dyaden im Teilnetzwerk drastisch. Im Zeitraum von 1943 bis 1945 gibt es nur noch vier reziproke Beziehungen, sechs asymmetrische Ortsbeziehungen und zwölf Nullbeziehungen. An diesen Zahlen wird das ganze Ausmaß der Verfolgung an Familie Uhlman deutlich: Die Zahl der Beziehungen sinkt so stark, weil die Hälfte der in Stuttgart lebenden Familienmitglieder bereits im KZ umgekommen sind. So gibt es auch insgesamt weniger Beziehungen im Teilnetzwerk.
+
+Schließlich bleibt nach 1945 nur noch eine gegenseitige Beziehung, die zwischen Fred Uhlman und Diana Croft besteht, übrig. Alle anderen Familienmitglieder, die nicht flohen, sind in Stuttgart dem NS-Regime zum Opfer gefallen und in verschiedenen KZs verstorben. Hier wird besonders deutlich, mit welcher grausamen Systematik die Nationalsozialisten gegen jüdische Familien auch in Stuttgart vorgegangen sind.
+
+Insgesamt lässt sich deutlich erkennen, dass im Verlauf der Zeit ab 1943 die Zahl der Beziehungen, sowohl der gegenseitigen als auch der asymmetrischen und nicht vorhandenen, aufgrund der Ermordung der Familie durch die Nationalsozialisten immer weiter sinkt. Dabei bleibt das Verhältnis der drei Verbindungsarten zwsichen den Dyaden zahlenmäßig immer ähnlich, die Anzahl nimmt aber immer weiter ab. 
+
+
+#### Vergleich Familie Weinstein und Familie Uhlman (Dyaden)
+
+In den Teilnetzwerken beider Familien lässt sich erkennen, dass mindestens bis zum Kriegsbeginn 1939 die Anzahl der reziproken Familienbeziehungen gleich blieb. Die Familien waren bis zu diesem Zeitpunkt somit miteinander verbunden und zusammen in Stuttgart. Die einzige Ausnahme war Fred Uhlman, der bereits 1936 vor der Verfolgung in Deutschland nach England floh. Ansonsten blieb Familie Uhlman sogar länger als Familie Weinstein zusammen, wie es an der konstanten Anzahl der reziproken Dyaden sichtbar wird. Erst im Teilnetzwerk von 1943 bis 1945 werden die Familienbeziehungen bei den Uhlmans weniger, bei den Weinsteins schon im Teilnetzwerk von 1940 bis 1942. 
+
+Außerdem zeigt sich auch bei der Analyse der Dyaden der wesentliche Unterschied zwischen den beiden Familien. Bei den Weinsteins steigt die Zahl der Nullbeziehungen ab 1940 stark an, die Zahl der reziproken Verbindungen sinkt, bis nach 1945 nur eine dieser Dyaden vorhanden ist. Dies ist der Tatsache geschuldet, dass alle Kinder der Familie aus Deutschland vor den Nationalsozialisten flohen und sich in verschiedenen Ländern verteilten. Bei der Familie Uhlman sinkt die Anzahl der drei verschiedenen Dyadentypen kontinuerlich über den Zeitverlauf, wobei das Verhältnis zwischen den drei Typen etwa gleich bleibt. Nach 1945 sind nur eine reziproke Verbindung, zwei asymmetrische Ortsverbindungen und keine Nullbeziehungen übrig. Das liegt daran, dass alle Familienmitglieder von den Nationalsozialisten systematisch ermordet wurden und nicht wie Familie Weinstein fliehen konnten.
+ 
+
+# 5. Visualisiserung
+
+Nach der Analyse der Teilnetzwerke folgt nun die vollständig ausgearbeitete Visualiserung der Gesamtnetzwerke und der Teilnetzwerke beider Familien.
+
+## 5.1 Visualisierung des Gesamtnetzwerks
+
+Zunächst werden die Gesamtnetzwerke von Familie Weinstein und Familie Uhlman visuell dargestellt.
+
+### Gesamtnetzwerk Familie Weinstein
+
+```{r Visualisierung des Gesamtnetzwerks von Familie Weinstein, fig.height=15, fig.width=20, message=TRUE, warning=TRUE, paged.print=TRUE}
+
+#Definition von Attributen für Farbe und Form
+
+#Farben für die Familienrolle definieren
+V(stolwei)[V(stolwei)$familyfunction==1]$color<-"red"
+V(stolwei)[V(stolwei)$familyfunction==2]$color<-"red"
+V(stolwei)[V(stolwei)$familyfunction==3]$color<-"orange"
+V(stolwei)[V(stolwei)$familyfunction==4]$color<-"orange"
+V(stolwei)[V(stolwei)$familyfunction==13]$color<-"yellow"
+V(stolwei)[V(stolwei)$type==2]$color<-"transparent"
+
+#Defintion von Formen der Knoten entsprechend des Geschlechts
+V(stolwei)[V(stolwei)$sex==1]$shape<-"square"
+V(stolwei)[V(stolwei)$sex==2]$shape<-"circle"
+V(stolwei)[V(stolwei)$sex==99]$shape<-"none"
+
+#Schriftgröße und -typ festlegen
+V(stolwei)[V(stolwei)$organisation!=99]$label.color<-"grey50"
+V(stolwei)[V(stolwei)$organisation==99]$label.color<-"black"
+V(stolwei)[V(stolwei)$organisation!=99]$label.font<-2
+V(stolwei)[V(stolwei)$organisation!=99]$label.cex<-1.3
+V(stolwei)[V(stolwei)$organisation==99]$label.cex<-1.2
+V(stolwei)[V(stolwei)$organisation==99]$label.font<-3
+
+
+
+# Vektor für die Legende anlegen
+col_fam<- c("red", "orange", "yellow")
+
+fam<-c("Eltern", "Kinder", "Enkel")
+
+
+#Netzwerk mit festgelegten Attributen plotten
+plot(stolwei,
+     asp=0, 
+     layout=layout_with_kk, 
+     edge.arrow.size=.5, 
+     edge.arrow.curved=.8,
+     vertex.size=6, 
+     vertex.frame.color=NA,
+     edge.arrow.size=0.1,
+     edge.curved=curve_multiple(stolwei),
+     edge.color="grey80",
+     main= "Familie Weinstein",
+     sub="Die Kreise stehen für Frauen, die Quadrate für Männer.")
+
+#In die Untertitel reinschreiben, was Kreise und Quadrate bedeutuen?
+
+
+#Legende erstellen
+legend(x=0.8, y=-0.8, legend=fam, col=col_fam, text.col=col_fam, bty="n", pch=20, pt.cex=2, cex=1.5, inset=c(0.1,0.1))
+par(mar=c(0,0.5,0,0.5))
+```
+
+### Gesamtnetzwerk Familie Uhlman
+
+```{r Visualisierung des Gesamtnetzwerks von Familie Uhlman, fig.height=10, fig.width=25, message=TRUE, warning=TRUE, paged.print=TRUE}
+
+# Einlesen der Edge- und Nodelist der Familie Uhlman
+el2 <- read.csv("https://raw.githubusercontent.com/alinabraun/stolpersteine/master/Edgelist%20-%20Familie%20Uhlman.csv", header=T, as.is=T, sep = ",")
+nodes2 <- read.csv("https://raw.githubusercontent.com/alinabraun/stolpersteine/master/Nodelist%20-%20Familie%20Uhlman.csv", header=T, as.is=T, sep = ",")
+
+# Matrix Familie Uhlman erstellen
+edgematrix2 <-as.matrix(el2)
+
+# Zusammenführen von Edge- und Nodelist als igraph-Objekt stolwei
+stoluhl <- graph_from_data_frame(d=edgematrix2, vertices=nodes2, directed=T)
+stoluhl
+
+
+#Definition von Attributen für Farbe und Form
+
+
+#Farben für die Familienrolle definieren
+V(stoluhl)[V(stoluhl)$familyfunction==1]$color<-"red"
+V(stoluhl)[V(stoluhl)$familyfunction==2]$color<-"red"
+V(stoluhl)[V(stoluhl)$familyfunction==3]$color<-"orange"
+V(stoluhl)[V(stoluhl)$familyfunction==4]$color<-"orange"
+V(stoluhl)[V(stoluhl)$familyfunction==13]$color<-"yellow"
+V(stoluhl)[V(stoluhl)$familyfunction==5]$color<-"maroon"
+V(stoluhl)[V(stoluhl)$familyfunction==7]$color<-"sienna"
+V(stoluhl)[V(stoluhl)$familyfunction==12]$color<-"brown"
+V(stoluhl)[V(stoluhl)$type==2]$color<-"transparent"
+
+#Defintion von Formen der Knoten entsprechend des Geschlechts
+V(stoluhl)[V(stoluhl)$sex==1]$shape<-"square"
+V(stoluhl)[V(stoluhl)$sex==2]$shape<-"circle"
+V(stoluhl)[V(stoluhl)$sex==99]$shape<-"none"
+
+#Schriftgröße und -typ festlegen
+V(stoluhl)[V(stoluhl)$organisation!=99]$label.color<-"grey50"
+V(stoluhl)[V(stoluhl)$organisation==99]$label.color<-"black"
+V(stoluhl)[V(stoluhl)$organisation!=99]$label.font<-2
+V(stoluhl)[V(stoluhl)$organisation!=99]$label.cex<-1.3
+V(stoluhl)[V(stoluhl)$organisation==99]$label.cex<-1.2
+V(stoluhl)[V(stoluhl)$organisation==99]$label.font<-3
+
+
+# Vektor für die Legende anlegen
+col_fam2<- c("red", "orange", "yellow", "maroon", "sienna", "brown")
+
+fam2<-c("Eltern", "Kinder", "Enkel", "Großeltern", "Onkel", "Angeheiratet")
+
+#Netzwerk mit festgelegten Attributen plotten
+
+par(mar=c(2,0.5,2,4))
+
+plot(stoluhl,
+     asp=0, 
+     layout=layout_with_kk, 
+     edge.arrow.size=.5, 
+     edge.arrow.curved=.8,
+     vertex.size=6, 
+     vertex.frame.color=NA,
+     edge.arrow.size=0.1,
+     edge.curved=curve_multiple(stoluhl),
+     edge.color="grey80",
+     main= "Familie Uhlman",
+     sub="Die Kreise stehen für Frauen, die Quadrate für Männer.")
+
+#Legende erstellen
+legend(x=0.8, y=-0.6, legend=fam2, col=col_fam2, text.col=col_fam2, bty="n", pch=20, pt.cex=2, cex=1.5, inset=c(0.1,0.1))
+
+
+
+```
+
+## 5.2 Visualisierung der Teilnetzwerke 
+
+Im Folgenden sollen nun auch die Teilnetzwerke beider Familien visuell aufbereitet und schöner dargestellt werden.
+
+### 5.2.1 Visualisierung der Teilnetzwerke von Familie Weinstein
+
+```{r Visualisierung der Teilnetzwerke von Familie Weinstein, fig.height=55, fig.width=20}
+
+#Teilnetzwerk 1
+
+par(mfrow=c(6,1), mar=c(10,2,1,0.5))
+#Farben für die Familienrolle definieren
+V(wei1)[V(wei1)$familyfunction==1]$color<-"red"
+V(wei1)[V(wei1)$familyfunction==2]$color<-"red"
+V(wei1)[V(wei1)$familyfunction==3]$color<-"orange"
+V(wei1)[V(wei1)$familyfunction==4]$color<-"orange"
+V(wei1)[V(wei1)$familyfunction==13]$color<-"yellow"
+V(wei1)[V(wei1)$type==2]$color<-"transparent"
+
+#Defintion von Formen der Knoten entsprechend des Geschlechts
+V(wei1)[V(wei1)$sex==1]$shape<-"square"
+V(wei1)[V(wei1)$sex==2]$shape<-"circle"
+V(wei1)[V(wei1)$sex==99]$shape<-"none"
+
+#Schriftgröße und -typ festlegen
+V(wei1)[V(wei1)$organisation!=99]$label.color<-"grey50"
+V(wei1)[V(wei1)$organisation==99]$label.color<-"black"
+V(wei1)[V(wei1)$organisation!=99]$label.font<-2
+V(wei1)[V(wei1)$organisation!=99]$label.cex<-1.8
+V(wei1)[V(wei1)$organisation==99]$label.cex<-1.6
+V(wei1)[V(wei1)$organisation==99]$label.font<-3
+
+#Vektor definieren für Legende passend zu den Teilnetzwerken
+col_fam4<- c("red", "orange")
+
+fam4<-c("Eltern", "Kinder")
+
+#Netzwerk mit festgelegten Attributen plotten
+plot(wei1,
+     asp=0, 
+     layout=layout_with_kk, 
+     edge.arrow.size=.5, 
+     edge.arrow.curved=.8,
+     vertex.size=6, 
+     vertex.frame.color=NA,
+     edge.arrow.size=0.1,
+     edge.curved=curve_multiple(stoluhl),
+     edge.color="grey80",
+     main= "Familie Weinstein vor 1933",
+     cex.main=1.6,
+     sub="Die Kreise stehen für Frauen, die Quadrate für Männer.")
+
+#Legende erstellen
+legend(x=0.8, y=-0.7, legend=fam4, col=col_fam4, text.col=col_fam, bty="n", pch=20, pt.cex=3, cex=2.0, inset=c(0.1,0.1))
+
+
+
+#Teilnetzwerk 2
+
+#Farben für die Familienrolle definieren
+V(wei2)[V(wei2)$familyfunction==1]$color<-"red"
+V(wei2)[V(wei2)$familyfunction==2]$color<-"red"
+V(wei2)[V(wei2)$familyfunction==3]$color<-"orange"
+V(wei2)[V(wei2)$familyfunction==4]$color<-"orange"
+V(wei2)[V(wei2)$familyfunction==13]$color<-"yellow"
+V(wei2)[V(wei2)$type==2]$color<-"transparent"
+
+#Defintion von Formen der Knoten entsprechend des Geschlechts
+V(wei2)[V(wei2)$sex==1]$shape<-"square"
+V(wei2)[V(wei2)$sex==2]$shape<-"circle"
+V(wei2)[V(wei2)$sex==99]$shape<-"none"
+
+#Schriftgröße und -typ festlegen
+V(wei2)[V(wei2)$organisation!=99]$label.color<-"grey50"
+V(wei2)[V(wei2)$organisation==99]$label.color<-"black"
+V(wei2)[V(wei2)$organisation!=99]$label.font<-2
+V(wei2)[V(wei2)$organisation!=99]$label.cex<-1.8
+V(wei2)[V(wei2)$organisation==99]$label.cex<-1.6
+V(wei2)[V(wei2)$organisation==99]$label.font<-3
+
+#Netzwerk mit festgelegten Attributen plotten
+plot(wei2,
+     asp=0, 
+     layout=layout_with_kk, 
+     edge.arrow.size=.5, 
+     edge.arrow.curved=.8,
+     vertex.size=6, 
+     vertex.frame.color=NA,
+     edge.arrow.size=0.1,
+     edge.color="grey80",
+     edge.curved=curve_multiple(stoluhl),
+     main= "Familie Weinstein 1933- 1935",
+     cex.main=1.6,
+     sub="Die Kreise stehen für Frauen, die Quadrate für Männer.")
+
+#Legende erstellen
+legend(x=0.8, y=-0.7, legend=fam4, col=col_fam4, text.col=col_fam, bty="n", pch=20, pt.cex=3, cex=2.0, inset=c(0.1,0.1))
+
+
+
+#Teilnetzwerk 3
+
+#Farben für die Familienrolle definieren
+V(wei3)[V(wei3)$familyfunction==1]$color<-"red"
+V(wei3)[V(wei3)$familyfunction==2]$color<-"red"
+V(wei3)[V(wei3)$familyfunction==3]$color<-"orange"
+V(wei3)[V(wei3)$familyfunction==4]$color<-"orange"
+V(wei3)[V(wei3)$familyfunction==13]$color<-"yellow"
+V(wei3)[V(wei3)$type==2]$color<-"transparent"
+
+#Defintion von Formen der Knoten entsprechend des Geschlechts
+V(wei3)[V(wei3)$sex==1]$shape<-"square"
+V(wei3)[V(wei3)$sex==2]$shape<-"circle"
+V(wei3)[V(wei3)$sex==99]$shape<-"none"
+
+#Schriftgröße und -typ festlegen
+V(wei3)[V(wei3)$organisation!=99]$label.color<-"grey50"
+V(wei3)[V(wei3)$organisation==99]$label.color<-"black"
+V(wei3)[V(wei3)$organisation!=99]$label.font<-2
+V(wei3)[V(wei3)$organisation!=99]$label.cex<-1.8
+V(wei3)[V(wei3)$organisation==99]$label.cex<-1.6
+V(wei3)[V(wei3)$organisation==99]$label.font<-3
+
+#Netzwerk mit festgelegten Attributen plotten
+plot(wei3,
+     asp=0, 
+     layout=layout_with_kk, 
+     edge.arrow.size=.5, 
+     edge.arrow.curved=.8,
+     vertex.size=6, 
+     vertex.frame.color=NA,
+     edge.arrow.size=0.1,
+     edge.color="grey80",
+     edge.curved=curve_multiple(stoluhl),
+     main= "Familie Weinstein 1936-1939",
+     cex.main=1.6,
+     sub= "Die Kreise stehen für Frauen, die Quadrate für Männer.")
+
+#Legende erstellen
+legend(x=0.8, y=-0.7, legend=fam4, col=col_fam4, text.col=col_fam, bty="n", pch=20, pt.cex=3, cex=2.0, inset=c(0.1,0.1))
+
+
+
+#Teilnetzwerk 4
+
+#Farben für die Familienrolle definieren
+V(wei4)[V(wei4)$familyfunction==1]$color<-"red"
+V(wei4)[V(wei4)$familyfunction==2]$color<-"red"
+V(wei4)[V(wei4)$familyfunction==3]$color<-"orange"
+V(wei4)[V(wei4)$familyfunction==4]$color<-"orange"
+V(wei4)[V(wei4)$familyfunction==13]$color<-"yellow"
+V(wei4)[V(wei4)$type==2]$color<-"transparent"
+
+#Defintion von Formen der Knoten entsprechend des Geschlechts
+V(wei4)[V(wei4)$sex==1]$shape<-"square"
+V(wei4)[V(wei4)$sex==2]$shape<-"circle"
+V(wei4)[V(wei4)$sex==99]$shape<-"none"
+
+#Schriftgröße und -typ festlegen
+V(wei4)[V(wei4)$organisation!=99]$label.color<-"grey50"
+V(wei4)[V(wei4)$organisation==99]$label.color<-"black"
+V(wei4)[V(wei4)$organisation!=99]$label.font<-2
+V(wei4)[V(wei4)$organisation!=99]$label.cex<-1.8
+V(wei4)[V(wei4)$organisation==99]$label.cex<-1.6
+V(wei4)[V(wei4)$organisation==99]$label.font<-3
+
+#Netzwerk mit festgelegten Attributen plotten
+plot(wei4,
+     asp=0, 
+     layout=layout_with_kk, 
+     edge.arrow.size=.5, 
+     edge.arrow.curved=.8,
+     vertex.size=6, 
+     vertex.frame.color=NA,
+     edge.arrow.size=0.1,
+     edge.color="grey80",
+     edge.curved=curve_multiple(stoluhl),
+     main= "Familie Weinstein 1940-1942",
+     cex.main=1.6,
+     sub="Die Kreise stehen für Frauen, die Quadrate für Männer.")
+
+#Legende erstellen
+legend(x=0.8, y=-0.7, legend=fam4, col=col_fam4, text.col=col_fam, bty="n", pch=20, pt.cex=3, cex=2.0, inset=c(0.1,0.1))
+
+
+#Teilnetzwerk 5
+
+#Farben für die Familienrolle definieren
+V(wei5)[V(wei5)$familyfunction==1]$color<-"red"
+V(wei5)[V(wei5)$familyfunction==2]$color<-"red"
+V(wei5)[V(wei5)$familyfunction==3]$color<-"orange"
+V(wei5)[V(wei5)$familyfunction==4]$color<-"orange"
+V(wei5)[V(wei5)$familyfunction==13]$color<-"yellow"
+V(wei5)[V(wei5)$type==2]$color<-"transparent"
+
+#Defintion von Formen der Knoten entsprechend des Geschlechts
+V(wei5)[V(wei5)$sex==1]$shape<-"square"
+V(wei5)[V(wei5)$sex==2]$shape<-"circle"
+V(wei5)[V(wei5)$sex==99]$shape<-"none"
+
+#Schriftgröße und -typ festlegen
+V(wei5)[V(wei5)$organisation!=99]$label.color<-"grey50"
+V(wei5)[V(wei5)$organisation==99]$label.color<-"black"
+V(wei5)[V(wei5)$organisation!=99]$label.font<-2
+V(wei5)[V(wei5)$organisation!=99]$label.cex<-1.8
+V(wei5)[V(wei5)$organisation==99]$label.cex<-1.6
+V(wei5)[V(wei5)$organisation==99]$label.font<-3
+
+#Netzwerk mit festgelegten Attributen plotten
+plot(wei5,
+     asp=0, 
+     layout=layout_with_kk, 
+     edge.arrow.size=.5, 
+     edge.arrow.curved=.8,
+     vertex.size=6, 
+     vertex.frame.color=NA,
+     edge.arrow.size=0.1,
+     edge.color="grey80",
+     edge.curved=curve_multiple(stoluhl),
+     main= "Familie Weinstein 1943-1945",
+     cex.main=1.6,
+     sub="Die Kreise stehen für Frauen, die Quadrate für Männer.")
+
+#Legende erstellen
+legend(x=0.9, y=-0.3, legend=fam4, col=col_fam4, text.col=col_fam, bty="n", pch=20, pt.cex=3, cex=2.0, inset=c(0.1,0.1))
+
+
+
+#Teilnetzwerk 6
+
+#Farben für die Familienrolle definieren
+V(wei6)[V(wei6)$familyfunction==1]$color<-"red"
+V(wei6)[V(wei6)$familyfunction==2]$color<-"red"
+V(wei6)[V(wei6)$familyfunction==3]$color<-"orange"
+V(wei6)[V(wei6)$familyfunction==4]$color<-"orange"
+V(wei6)[V(wei6)$familyfunction==13]$color<-"yellow"
+V(wei6)[V(wei6)$type==2]$color<-"transparent"
+
+#Defintion von Formen der Knoten entsprechend des Geschlechts
+V(wei6)[V(wei6)$sex==1]$shape<-"square"
+V(wei6)[V(wei6)$sex==2]$shape<-"circle"
+V(wei6)[V(wei6)$sex==99]$shape<-"none"
+
+#Schriftgröße und -typ festlegen
+V(wei6)[V(wei6)$organisation!=99]$label.color<-"grey50"
+V(wei6)[V(wei6)$organisation==99]$label.color<-"black"
+V(wei6)[V(wei6)$organisation!=99]$label.font<-2
+V(wei6)[V(wei6)$organisation!=99]$label.cex<-1.8
+V(wei6)[V(wei6)$organisation==99]$label.cex<-1.6
+V(wei6)[V(wei6)$organisation==99]$label.font<-3
+
+
+#Netzwerk mit festgelegten Attributen plotten
+plot(wei6,
+     asp=0, 
+     layout=layout_with_kk, 
+     edge.arrow.size=.5, 
+     edge.arrow.curved=.8,
+     vertex.size=6, 
+     vertex.frame.color=NA,
+     edge.arrow.size=0.1,
+     edge.color="grey80",
+     edge.curved=curve_multiple(stoluhl),
+     main= "Familie Weinstein nach 1945",
+     cex.main=1.6,
+     sub="Die Kreise stehen für Frauen, die Quadrate für Männer.")
+
+#Legende erstellen
+legend(x=0.9, y=-0.7, legend=fam, col=col_fam, text.col=col_fam, bty="n", pch=20, pt.cex=3, cex=2, inset=c(0.1,0.1))
+
+
+
+
+
+
+```
+
+
+### 5.2.2 Visualisierung der Teilnetzwerke von Familie Uhlman
+
+```{r Visualisierung der Teilnetzwerke von Familie Uhlman, fig.height=55, fig.width=22}
+
+#Teilnetzwerk 1
+
+par(mfrow=c(6,1), mar=c(10,3,2,0.5))
+
+#Farben für die Familienrolle definieren
+V(uhl1)[V(uhl1)$familyfunction==1]$color<-"red"
+V(uhl1)[V(uhl1)$familyfunction==2]$color<-"red"
+V(uhl1)[V(uhl1)$familyfunction==3]$color<-"orange"
+V(uhl1)[V(uhl1)$familyfunction==4]$color<-"orange"
+V(uhl1)[V(uhl1)$familyfunction==13]$color<-"yellow"
+V(uhl1)[V(uhl1)$familyfunction==7]$color<-"sienna"
+V(uhl1)[V(uhl1)$familyfunction==12]$color<-"brown"
+V(uhl1)[V(uhl1)$type==2]$color<-"transparent"
+
+#Defintion von Formen der Knoten entsprechend des Geschlechts
+V(uhl1)[V(uhl1)$sex==1]$shape<-"square"
+V(uhl1)[V(uhl1)$sex==2]$shape<-"circle"
+V(uhl1)[V(uhl1)$sex==99]$shape<-"none"
+
+#Schriftgröße und -typ festlegen
+V(uhl1)[V(uhl1)$organisation!=99]$label.color<-"grey50"
+V(uhl1)[V(uhl1)$organisation==99]$label.color<-"black"
+V(uhl1)[V(uhl1)$organisation!=99]$label.font<-2
+V(uhl1)[V(uhl1)$organisation!=99]$label.cex<-1.8
+V(uhl1)[V(uhl1)$organisation==99]$label.cex<-1.6
+V(uhl1)[V(uhl1)$organisation==99]$label.font<-3
+
+#Vektor für die Legende passend zu den Teilnetzwerken anlege
+col_fam3<- c("red", "orange", "sienna", "brown")
+
+fam3<-c("Eltern", "Kinder", "Onkel", "Angeheiratet")
+
+#Netzwerk mit festgelegten Attributen plotten
+plot(uhl1,
+     asp=0, 
+     layout=layout_with_kk, 
+     edge.arrow.size=.5, 
+     edge.arrow.curved=.8,
+     vertex.size=6, 
+     vertex.frame.color=NA,
+     edge.arrow.size=0.1,
+     edge.color="grey80",
+     edge.curved=curve_multiple(stoluhl),
+     main= "Familie Uhlman vor 1933",
+     cex.main=1.6,
+     sub="Die Kreise stehen für Frauen, die Quadrate für Männer.")
+
+
+
+
+#Legende erstellen
+legend(x=0.8, y=-0.7, legend=fam3, col=col_fam3, text.col=col_fam3, bty="n", pch=20, pt.cex=3, cex=2.0, inset=c(0.1,0.1))
+
+
+
+#Teilnetzwerk 2
+
+#Farben für die Familienrolle definieren
+V(uhl2)[V(uhl2)$familyfunction==1]$color<-"red"
+V(uhl2)[V(uhl2)$familyfunction==2]$color<-"red"
+V(uhl2)[V(uhl2)$familyfunction==3]$color<-"orange"
+V(uhl2)[V(uhl2)$familyfunction==4]$color<-"orange"
+V(uhl2)[V(uhl2)$familyfunction==13]$color<-"yellow"
+V(uhl2)[V(uhl2)$familyfunction==7]$color<-"sienna"
+V(uhl2)[V(uhl2)$familyfunction==12]$color<-"brown"
+V(uhl2)[V(uhl2)$type==2]$color<-"transparent"
+
+#Defintion von Formen der Knoten entsprechend des Geschlechts
+V(uhl2)[V(uhl2)$sex==1]$shape<-"square"
+V(uhl2)[V(uhl2)$sex==2]$shape<-"circle"
+V(uhl2)[V(uhl2)$sex==99]$shape<-"none"
+
+#Schriftgröße und -typ festlegen
+V(uhl2)[V(uhl2)$organisation!=99]$label.color<-"grey50"
+V(uhl2)[V(uhl2)$organisation==99]$label.color<-"black"
+V(uhl2)[V(uhl2)$organisation!=99]$label.font<-2
+V(uhl2)[V(uhl2)$organisation!=99]$label.cex<-1.8
+V(uhl2)[V(uhl2)$organisation==99]$label.cex<-1.6
+V(uhl2)[V(uhl2)$organisation==99]$label.font<-3
+
+#Netzwerk mit festgelegten Attributen plotten
+plot(uhl2,
+     asp=0, 
+     layout=layout_with_kk, 
+     edge.arrow.size=.5, 
+     edge.arrow.curved=.8,
+     vertex.size=6, 
+     vertex.frame.color=NA,
+     edge.arrow.size=0.1,
+     edge.color="grey80",
+     edge.curved=curve_multiple(stoluhl),
+     main= "Familie Uhlman 1933-1935",
+     cex.main=1.6,
+     sub="Die Kreise stehen für Frauen, die Quadrate für Männer.")
+
+
+
+#Legende erstellen
+legend(x=0.8, y=-0.7, legend=fam3, col=col_fam3, text.col=col_fam3, bty="n", pch=20, pt.cex=3, cex=2.0, inset=c(0.1,0.1))
+
+
+#Teilnetzwerk 3
+
+#Farben für die Familienrolle definieren
+V(uhl3)[V(uhl3)$familyfunction==1]$color<-"red"
+V(uhl3)[V(uhl3)$familyfunction==2]$color<-"red"
+V(uhl3)[V(uhl3)$familyfunction==3]$color<-"orange"
+V(uhl3)[V(uhl3)$familyfunction==4]$color<-"orange"
+V(uhl3)[V(uhl3)$familyfunction==13]$color<-"yellow"
+V(uhl3)[V(uhl3)$familyfunction==7]$color<-"sienna"
+V(uhl3)[V(uhl3)$familyfunction==12]$color<-"brown"
+V(uhl3)[V(uhl3)$type==2]$color<-"transparent"
+
+#Defintion von Formen der Knoten entsprechend des Geschlechts
+V(uhl3)[V(uhl3)$sex==1]$shape<-"square"
+V(uhl3)[V(uhl3)$sex==2]$shape<-"circle"
+V(uhl3)[V(uhl3)$sex==99]$shape<-"none"
+
+#Schriftgröße und -typ festlegen
+V(uhl3)[V(uhl3)$organisation!=99]$label.color<-"grey50"
+V(uhl3)[V(uhl3)$organisation==99]$label.color<-"black"
+V(uhl3)[V(uhl3)$organisation!=99]$label.font<-2
+V(uhl3)[V(uhl3)$organisation!=99]$label.cex<-1.8
+V(uhl3)[V(uhl3)$organisation==99]$label.cex<-1.6
+V(uhl3)[V(uhl3)$organisation==99]$label.font<-3
+
+
+
+#Netzwerk mit festgelegten Attributen plotten
+plot(uhl3,
+     asp=0, 
+     layout=layout_with_kk, 
+     edge.arrow.size=.5, 
+     edge.arrow.curved=.8,
+     vertex.size=6, 
+     vertex.frame.color=NA,
+     edge.arrow.size=0.1,
+     edge.color="grey80",
+     edge.curved=curve_multiple(stoluhl),
+     main= "Familie Uhlman 1936-1939",
+     cex.main=1.6,
+     sub="Die Kreise stehen für Frauen, die Quadrate für Männer.")
+
+
+
+#Legende erstellen
+legend(x=0.8, y=-0.7, legend=fam3, col=col_fam3, text.col=col_fam3, bty="n", pch=20, pt.cex=3, cex=2.0, inset=c(0.1,0.1))
+
+
+
+#Teilnetzwerk 4
+
+#Farben für die Familienrolle definieren
+V(uhl4)[V(uhl4)$familyfunction==1]$color<-"red"
+V(uhl4)[V(uhl4)$familyfunction==2]$color<-"red"
+V(uhl4)[V(uhl4)$familyfunction==3]$color<-"orange"
+V(uhl4)[V(uhl4)$familyfunction==4]$color<-"orange"
+V(uhl4)[V(uhl4)$familyfunction==13]$color<-"yellow"
+V(uhl4)[V(uhl4)$familyfunction==7]$color<-"sienna"
+V(uhl4)[V(uhl4)$familyfunction==12]$color<-"brown"
+V(uhl4)[V(uhl4)$type==2]$color<-"transparent"
+
+#Defintion von Formen der Knoten entsprechend des Geschlechts
+V(uhl4)[V(uhl4)$sex==1]$shape<-"square"
+V(uhl4)[V(uhl4)$sex==2]$shape<-"circle"
+V(uhl4)[V(uhl4)$sex==99]$shape<-"none"
+
+#Schriftgröße und -typ festlegen
+V(uhl4)[V(uhl4)$organisation!=99]$label.color<-"grey50"
+V(uhl4)[V(uhl4)$organisation==99]$label.color<-"black"
+V(uhl4)[V(uhl4)$organisation!=99]$label.font<-2
+V(uhl4)[V(uhl4)$organisation!=99]$label.cex<-1.8
+V(uhl4)[V(uhl4)$organisation==99]$label.cex<-1.6
+V(uhl4)[V(uhl4)$organisation==99]$label.font<-3
+
+#Vektor für die Legende passend zu den Teilnetzwerken anlegen
+
+col_fam5<- c("red", "orange", "yellow", "sienna", "brown")
+
+fam5 <-c("Eltern", "Kinder", "Enkel", "Onkel", "Angeheiratet")
+#Netzwerk mit festgelegten Attributen plotten
+plot(uhl4,
+     asp=0, 
+     layout=layout_with_kk, 
+     edge.arrow.size=.5, 
+     edge.arrow.curved=.8,
+     vertex.size=6, 
+     vertex.frame.color=NA,
+     edge.arrow.size=0.1,
+     edge.color="grey80",
+     edge.curved=curve_multiple(stoluhl),
+     main= "Familie Uhlman 1940-1942",
+     cex.main=1.6,
+     sub="Die Kreise stehen für Frauen, die Quadrate für Männer.")
+
+#Legende erstellen
+legend(x=0.8, y=-0.7, legend=fam5, col=col_fam5, text.col=col_fam5, bty="n", pch=20, pt.cex=3, cex=2.0, inset=c(0.1,0.1))
+par(mar=c(0.5,3,2,0.5))
+
+
+#Teilnetzwerk 5
+
+#Farben für die Familienrolle definieren
+V(uhl5)[V(uhl5)$familyfunction==1]$color<-"red"
+V(uhl5)[V(uhl5)$familyfunction==2]$color<-"red"
+V(uhl5)[V(uhl5)$familyfunction==3]$color<-"orange"
+V(uhl5)[V(uhl5)$familyfunction==4]$color<-"orange"
+V(uhl5)[V(uhl5)$familyfunction==13]$color<-"yellow"
+V(uhl5)[V(uhl5)$familyfunction==7]$color<-"sienna"
+V(uhl5)[V(uhl5)$familyfunction==12]$color<-"brown"
+V(uhl5)[V(uhl5)$type==2]$color<-"transparent"
+
+#Defintion von Formen der Knoten entsprechend des Geschlechts
+V(uhl5)[V(uhl5)$sex==1]$shape<-"square"
+V(uhl5)[V(uhl5)$sex==2]$shape<-"circle"
+V(uhl5)[V(uhl5)$sex==99]$shape<-"none"
+
+#Schriftgröße und -typ festlegen
+V(uhl5)[V(uhl5)$organisation!=99]$label.color<-"grey50"
+V(uhl5)[V(uhl5)$organisation==99]$label.color<-"black"
+V(uhl5)[V(uhl5)$organisation!=99]$label.font<-2
+V(uhl5)[V(uhl5)$organisation!=99]$label.cex<-1.8
+V(uhl5)[V(uhl5)$organisation==99]$label.cex<-1.6
+V(uhl5)[V(uhl5)$organisation==99]$label.font<-3
+
+#Netzwerk mit festgelegten Attributen plotten
+plot(uhl5,
+     asp=0, 
+     layout=layout_with_kk, 
+     edge.arrow.size=.5, 
+     edge.arrow.curved=.8,
+     vertex.size=6, 
+     vertex.frame.color=NA,
+     edge.arrow.size=0.1,
+     edge.color="grey80",
+     edge.curved=curve_multiple(stoluhl),
+     main= "Familie Uhlman 1943-45",
+     cex.main=1.6,
+     sub="Die Kreise stehen für Frauen, die Quadrate für Männer.")
+
+#Legende erstellen
+legend(x=0.9, y=-0.5, legend=fam3, col=col_fam3, text.col=col_fam3, bty="n", pch=20, pt.cex=3, cex=2.0, inset=c(0.1,0.1))
+par(mar=c(0,0.5,2,0))
+
+
+#Teilnetzwerk 6
+
+#Farben für die Familienrolle definieren
+V(uhl6)[V(uhl6)$familyfunction==1]$color<-"red"
+V(uhl6)[V(uhl6)$familyfunction==2]$color<-"red"
+V(uhl6)[V(uhl6)$familyfunction==3]$color<-"orange"
+V(uhl6)[V(uhl6)$familyfunction==4]$color<-"orange"
+V(uhl6)[V(uhl6)$familyfunction==13]$color<-"yellow"
+V(uhl6)[V(uhl6)$familyfunction==7]$color<-"sienna"
+V(uhl6)[V(uhl6)$familyfunction==12]$color<-"brown"
+V(uhl6)[V(uhl6)$type==2]$color<-"transparent"
+
+#Defintion von Formen der Knoten entsprechend des Geschlechts
+V(uhl6)[V(uhl6)$sex==1]$shape<-"square"
+V(uhl6)[V(uhl6)$sex==2]$shape<-"circle"
+V(uhl6)[V(uhl6)$sex==99]$shape<-"none"
+
+#Schriftgröße und -typ festlegen
+V(uhl6)[V(uhl6)$organisation!=99]$label.color<-"grey50"
+V(uhl6)[V(uhl6)$organisation==99]$label.color<-"black"
+V(uhl6)[V(uhl6)$organisation!=99]$label.font<-2
+V(uhl6)[V(uhl6)$organisation!=99]$label.cex<-1.8
+V(uhl6)[V(uhl6)$organisation==99]$label.cex<-1.6
+V(uhl6)[V(uhl6)$organisation==99]$label.font<-3
+
+# #Vektor für die Legende passend zu den Teilnetzwerken anlegen
+
+col_fam6<-c("orange", "sienna")
+
+fam6 <-c("Kinder", "Angeheiratet")
+#Netzwerk mit festgelegten Attributen plotten
+plot(uhl6,
+     asp=0, 
+     layout=layout_with_kk, 
+     edge.arrow.size=.5, 
+     edge.arrow.curved=.8,
+     vertex.size=6, 
+     vertex.frame.color=NA,
+     edge.arrow.size=0.1,
+     edge.color="grey80",
+     edge.curved=curve_multiple(stoluhl),
+     main= "Familie Uhlman nach 1945",
+     cex.main=1.6,
+     sub="Die Kreise stehen für Frauen, die Quadrate für Männer.")
+
+#Legende erstellen
+legend(x=0.9, y=-0.5, legend=fam6, col=col_fam6, text.col=col_fam6, bty="n", pch=20, pt.cex=3, cex=2.0, inset=c(0.1,0.1))
+
+
+
+
+```
+
+
+# 6. Diskussion: Fazit, Limitationen und Ausblick
+
+Im letzten Teil des Forschungsberichts werden die gesammelten Ergebnisse zusammengefasst. Darüber hinaus werden Limitationen dargelegt und ein Ausblick für die weitere Netzwerkanalyse gegeben. 
+
+Nach der Analyse der verschiedenen Teilnetzwerke der jeweiligen Familien lässt sich sagen, dass das Naziregime beide Familien auf zwei unterschiedliche Weisen zerstört hat. Durch die Judenverfolgung war die Familie Weinstein zur Flucht gezwungen, die Familie Uhlman wurde hingegen deportiert und bis auf ein Familienmitglied vollkommen ausgelöscht. Dieses Ergebnis bestätigt unsere erste, zu Beginn aufgestellte Hypothese, dass die Familienstruktur unter den Nationalsozialisten gelitten hat. Dies wurde besonders bei der Analyse der Dyaden deutlich, da die Kantenanzahl der drei Dyadentypen sich im Zeitverlauf stark verändert haben. 
+
+Es lässt sich erkennen, dass beide Familien bis Kriegsbeginn 1939 stabil beieinander waren und selbst einschneidende Ereignisse in den 30er Jahren, wie beispielsweise die „Nürnberger Gesetze“ und die damit beginnende verschärfte Ausgrenzung der Juden, die Familie nicht auseinander gebracht haben. Damit hat sich unsere zweite Arbeitshypothese, dass es einen bestimmten Zeitpunkt gab, der die Familien zerstreut hat, bewahrheitet. Bei beiden Familien setzte dieser Prozess nach Kriegsbeginn 1939 ein.
+
+Als bei den Weinsteins die ersten Kinder 1939 auswanderten, brach die Familie Stück für Stück auseinander. Je mehr Kinder im Laufe der Zeit auswanderten, desto mehr hat sich die Familie aufgelöst und über den gesamten Globus verteilt. Außer den Eltern Luise Nesia und Israel Weinstein haben alle weiteren Familienmitglieder – dank der Flucht – überlebt. Bei Familie Uhlman sieht es jedoch anders aus. Durch die Deportationen 1942 ist die Familie vollends auseinander gebrochen und nur Fred Uhlman hat, aufgrund seiner Flucht nach England, überlebt. Somit bestätigt sich die dritte Hypothese, dass sich die Knotenanzahl drastisch verringern wird, nur teilweise, da bei Familie Weinstein beinahe alle überlebt haben. Dagegen sind bei Familie Uhlman alle außer einem Familienmitglied verstorben. Auch die vierte und letzte Hypothese, dass sich die Entwicklung der Familienstrukturen beider Familie grundsätzlich unterscheidet, hat sich dadurch bewahrheitet. Die Schicksale der Familien lassen darauf schließen, dass das damalige Überleben in vielen Fällen nur durch eine Flucht in ein anderes Land möglich war. 
+
+Im Rahmen unserer Forschung sind wir auf einige Limitationen gestoßen. Beispielsweise ließ sich das Netzwerk in R-Studio trotz zahlreichen Versuchen und der Hilfe des Professors nicht vereinfachen. Deshalb wirkt das Gesamtnetzwerk unübersichtlich, da es sehr viele Kanten gibt. Außerdem konnte die Analyse und Interpretation der Daten teilweise nicht vollständig durchgeführt werden, da die Datenquelle – die Website für die Stuttgarter Stolpersteine – an manchen Stellen lückenhaft war. Aufgrund dessen musste vieles interpretiert und aus dem Kontext erschlossen werden. Bei der Familie Weinstein war beispielsweise nicht eindeutig, wie lange die in Stuttgart gebliebenen Kinder wirklich dort waren, bevor sie ins Ausland geflohen sind. Durch ein persönliches Gespräch mit dem Enkel von Luise Nesia und Isreal Weinstein, Eric Winton, und der Recherche durch Zweitquellen haben wir versucht, das Netzwerk zu vervollständigen und Lücken zu schließen. Hier sind wir jedoch ebenfalls auf fehlende Daten gestoßen, weshalb es für uns nicht möglich war, das fünfte Teilnetzwerk der Familie Weinstein vollkommen zu analysieren und zu interpretieren. 
+
+Da wir im Rahmen unserer Forschung nur zwei Familien miteinander verglichen haben, kann über eine Systematik der Nationalsozialisten im Raum Stuttgart nichts Grundlegendes ausgesagt werden. Allerdings wurden bei der Familienauswahl bewusst zwei gegensätzliche Familien ausgewählt, die für zwei Extreme stehen – die Flucht und die brutale Auslöschung und Deportation. Wir haben Parallelen zwischen den beiden Familien feststellen können, welche allerdings nicht stellvertretend für alle Familien Stuttgarts stehen können, da wir beispielsweise keine Familie untersucht haben, die in Deutschland geblieben sind und durch Verstecken überleben konnten. 
+
+Als Ausblick zur weiteren Forschung in diesem Bereich kann jedoch gesagt werden, dass unsere Analyse auf jede Stolperstein-Familie anwendbar ist. Dadurch würden viele verschiedene Familiennetzwerke vorliegen und man könnte die Systematik der Nationalsozialisten nicht nur in Stuttgart, sondern in ganz Deutschland besser verstehen und aufzeigen. Anhand des Datensatzes könnte auch ein neuer Fokus gelegt werden, zum Beispiel auf die Arbeitsstrukturen. Dadurch könnte man herausfinden, welche Familien ihre Arbeit aufgrund des Naziregimes verloren haben. 
+
+Durch weitere Forschung mithilfe der historischen Netzwerkanalyse, die bis jetzt noch nicht oft betrieben wurde, könnten Datenlücken geschlossen und damit unter anderem die Systematik der Nationalsozialisten und ihre Bedeutung für die Familienstruktur der verfolgten Familien noch besser verstanden und aufgezeigt werden. 
+
+
+# 7. Anlage
+
+## a) Literatur
+
+Beyer, H., & Liebe, U. (2020). Diskriminierungserfahrungen und Bedrohungswahrnehmungen von in Deutschland lebenden Juden. Zeitschrift für Religion, Gesellschaft und Politik, 4(1), 127–148.
+
+Düring, M. (2015). Verdeckte soziale Netzwerke im Nationalsozialismus: Die Entstehung und Arbeitsweise von Berliner Hilfsnetzwerken für verfolgte Juden. Walter de Gruyter GmbH & Co KG.
+
+Düring, M. (2016). The dynamics of helping behavior for Jewish refugees during the Second World War: The importance of brokerage. Online Encyclopedia of Mass Violence.
+
+Düring, M., & Eumann, U. (2013). Historische Netzwerkforschung. Ein neuer Ansatz in den Geschichtswissenschaften. Geschichte und Gesellschaft, 39, 369–390.
+
+Düring, M., Eumann, U., Stark, M., & Keyserlingk, L. von. (2016). Handbuch Historische Netzwerkforschung: Grundlagen und Anwendungen. LIT Verlag Münster.
+
+Eumann, U., & März, J. (2012). Das Schneeballsystem der Gestapo bei der Bekämpfung des Widerstandes: Österreichische Zeitschrift für Geschichtswissenschaften, 23(1), 126–154–126–154. 
+
+Hachtmann, R., & Zentrum Für Zeithistorische Forschung. (2017). Vernetzung um jeden Preis: Zum politischen Alltagshandeln der Generalverwaltung im „Dritten Reich“. Gemeinschaftsforschung, Bevollmächtigte und der Wissenstransfer. Die Rolle der KaiserWilhelm. 
+
+Keyserlingk-Rehbein, L. von. (2018). Nur eine »ganz kleine Clique«? https://lisa.gerda-henkel-stiftung.de/ein_komplexes_zivil_militaerisches_beziehungsgeflecht?nav_id=8115&language=en
+
+Lutz, H., Schiebel, M., & Tuider, E. (Hrsg.). (2018). Handbuch Biographieforschung. VS Verlag für Sozialwissenschaften. 
+
+Moll, M. (2019). Linda von Keyserlingk-Rehbein, Nur eine »ganz kleine Clicque«? Die NS-Ermittlungen über das Netzwerk vom 20. Juli 1944, Berlin: Lukas 2018, 707 S. (= Schriften der Gedenkstätte Deutscher Widerstand, Reihe A: Analysen und Darstellungen, 12), Militärgeschichtliche Zeitschrift, 78(2), 554–556. 
+
+Schütze, Y. (2003). Migrantennetzwerke im Zeitverlauf—Junge russische Juden in Berlin. Berliner Journal für Soziologie, 13(2), 239–253. 
+
+Seibel, W., & Raab, J. (2003). Verfolgungsnetzwerke—Zur Messung von Arbeitsteilung und Machtdifferenzierung in den Verfolgungsapparaten des Holocaust. KZfSS Kölner Zeitschrift für Soziologie und Sozialpsychologie, 55(2), 197–230. 
+
+van Dyk, S., & Schauer, A. (2015). Nationalsozialistische Verfolgung. In S. van Dyk & A. Schauer (Hrsg.), »... Daß die offizielle Soziologie versagt hat«: Zur Soziologie im Nationalsozialismus, der Geschichte ihrer Aufarbeitung und der Rolle der DGS (S. 101–115). Springer Fachmedien. 
+
+von Bassewitz, H. (2004). Zentralwohlfahrtsstelle der Juden in Deutschland e.V. Sozial Extra, 28(11), 38–41. 
+
+
+## b) Codebuch
+
+https://github.com/alinabraun/stolpersteine/blob/master/codebuch.md
+
+## c) Datenmaterial und Skript
+
+*Familie Weinstein*
+
+https://github.com/alinabraun/stolpersteine/blob/master/Familie%20Weinstein%20-%20Nodelist.csv
+
+https://github.com/alinabraun/stolpersteine/blob/master/Familie%20Weinstein-Edgelist.csv
+
+*Familie Uhlman*
+
+https://github.com/alinabraun/stolpersteine/blob/master/Nodelist%20-%20Familie%20Uhlman.csv
+
+https://github.com/alinabraun/stolpersteine/blob/master/Edgelist%20-%20Familie%20Uhlman.csv
+
+*Skript*
+
+
+## d) Team, Arbeitsaufwand und Lessons Learned
+
+*Teammitglieder*
+
+Alina Braun, Amelie Kant, Anna Tschürtz, Annika Mayer und Franziska Nistler
+
+*Arbeitsaufwand*
+
+Entwicklung des (finalen) Themas (inklusive Themenwechsel): 4 Stunden
+
+Formulierung Codebuch: 3 Stunden
+
+Pretest: 3 Stunden
+
+Datenerhebung: pro Person durschnittlich 7 Stunden
+
+Versuch, Lücken im Datenmaterial zu schließen (durch Interview): 3 Stunden
+
+Literaturrecherche: pro Person durchschnittlich 3 Stunden
+
+Recherche des historischen Kontextes: 1 Stunde
+
+Formulierung Einleitung, Forschungsstand und Schluss: 6 Stunden
+
+Visualisierung in R-Studio: 20 Stunden
+
+Schreiben der Analyse: 15 Stunden
+
+Finalisieren des Forschungsberichts: 7 Stunden
+
+
+*Lessons Learned*
+
+Wir haben gelernt, dass Netzwerkforschung, wenn man sie auf ein konkretes Thema anwendet, sehr spannend und lebendig sein kann. Im Zusammenhang mit unserem Thema haben wir bemerkt, dass hinter einem Stolperstein noch viel mehr steckt als ein Name. Wir haben uns in die historischen Hintergründe und die Familiengeschichten eingelesen und dadurch wurde die Analyse fast zu einem Geschichtsunterricht zum Anfassen. Dadurch, dass wir uns intensiv mit der Analyse beschäftigt haben, stellten wir fest, dass die Netzwerkforschung eine sehr hilfreiche Methode ist, um sich Zusammenhänge zu erschließen, die auf den ersten Blick noch nicht ersichtlich ist. Außerdem wurde uns klar, wie viel Arbeit wirklich hinter der Erstellung und Analyse eines Netzwerks steckt. Dadurch wissen wir nun die Arbeit zu Netzwerken von anderen Forschern mehr zu schätzen. Wir haben durch unsere Forschung auch ein anderes Bewusstsein für die Stolpersteine entwickelt. Wenn wir das nächste Mal an einem Stolperstein in Stuttgart vorbeigehen werden, wird uns bewusster sein, dass dahinter wirklich Menschen mit schlimmen Schicksalen stecken, die wie unsere beiden Familien unter den Nationalsozialisten gelitten haben.
+
